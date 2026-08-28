@@ -6,8 +6,8 @@ import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
-# 12개 공식 별자리명 매핑 (오타 수정 완료)
-ZODIAC_NAME_MAP = {
+# 12개 일본어 별자리 키워드 매핑
+ZODIAC_MAP = {
     "おひつじ座": "양자리",
     "おうし座": "황소자리",
     "ふたご座": "쌍둥이자리",
@@ -22,103 +22,94 @@ ZODIAC_NAME_MAP = {
     "うお座": "물고기자리"
 }
 
-def translate_text(text: str, translator: GoogleTranslator) -> str:
+def translate_safe(text: str, translator: GoogleTranslator) -> str:
     if not text:
         return ""
     try:
-        translated = translator.translate(text.strip())
-        return translated if translated else text.strip()
+        res = translator.translate(text.strip())
+        return res if res else text.strip()
     except Exception as e:
-        print(f"번역 경고 ({text}): {e}")
+        print(f"번역 오류 ({text}): {e}")
         return text.strip()
 
-def scrape_ohaasa():
+def parse_ohaasa_stream():
     url = "https://www.asahi.co.jp/ohaasa/week/horoscope/index.html"
     headers = {
-        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     
     response = requests.get(url, headers=headers, timeout=20)
     response.encoding = "utf-8"
     
     if response.status_code != 200:
-        raise RuntimeError(f"사이트 응답 오류 (Status Code: {response.status_code})")
+        raise RuntimeError(f"웹사이트 접속 실패 (상태 코드: {response.status_code})")
         
     soup = BeautifulSoup(response.text, "html.parser")
-    translator = GoogleTranslator(source="ja", target="ko")
     
+    # script, style 태그 제거 후 순수 텍스트 추출
+    for tag in soup(["script", "style", "header", "footer", "nav"]):
+        tag.decompose()
+        
+    full_text = soup.get_text(separator="\n")
+    lines = [re.sub(r'\s+', ' ', line).strip() for line in full_text.split("\n") if line.strip()]
+    
+    translator = GoogleTranslator(source="ja", target="ko")
     rankings = []
     
-    # 웹페이지 내의 각 운세 블록 탐색
-    cards = soup.find_all(["div", "li", "section"], class_=lambda c: c and any(k in c.lower() for k in ["horoscope", "rank", "box", "list"]))
-    
-    for card in cards:
-        card_text = card.get_text(separator="\n").strip()
-        
-        # 별자리 매칭
-        matched_sign = None
-        for ja_sign, ko_sign in ZODIAC_NAME_MAP.items():
-            if ja_sign in card_text:
-                matched_sign = ko_sign
+    # 텍스트 전체에서 각 별자리가 등장하는 줄 번호(인덱스) 수집
+    zodiac_indices = []
+    for idx, line in enumerate(lines):
+        for ja_name, ko_name in ZODIAC_MAP.items():
+            if ja_name in line:
+                zodiac_indices.append((idx, ja_name, ko_name))
                 break
                 
-        if not matched_sign:
-            continue
-            
-        # 이미 추가된 별자리인지 중복 방지
-        if any(item["sign"] == matched_sign for item in rankings):
-            continue
-            
-        # 순위 추출 (정규표현식으로 1~12위 번호 매칭)
-        rank = len(rankings) + 1
-        rank_match = re.search(r'([1-9]|1[0-2])\s*位', card_text)
+    # 별자리 간 구간을 분할하여 상세 정보 파싱
+    for i, (start_idx, ja_sign, ko_sign) in enumerate(zodiac_indices):
+        end_idx = zodiac_indices[i + 1][0] if i + 1 < len(zodiac_indices) else min(start_idx + 15, len(lines))
+        chunk_lines = lines[start_idx:end_idx]
+        chunk_text = " ".join(chunk_lines)
+        
+        # 1. 순위 파싱 (1~12위)
+        rank = i + 1
+        rank_match = re.search(r'([1-9]|1[0-2])\s*位', chunk_text)
         if rank_match:
             rank = int(rank_match.group(1))
-            
-        # 럭키 컬러 / 아이템 / 설명문 파싱
+        else:
+            num_match = re.search(r'\b([1-9]|1[0-2])\b', chunk_lines[0])
+            if num_match:
+                rank = int(num_match.group(1))
+                
+        # 2. 행운색 / 행운 아이템 파싱
         lucky_color_raw = ""
         lucky_item_raw = ""
-        description_raw = ""
+        desc_candidates = []
         
-        lines = [line.strip() for line in card_text.split("\n") if line.strip()]
-        for idx, line in enumerate(lines):
+        for line in chunk_lines:
             if "ラッキーカラー" in line:
-                lucky_color_raw = line.replace("ラッキーカラー", "").replace(":", "").replace("：", "").strip()
-                if not lucky_color_raw and idx + 1 < len(lines):
-                    lucky_color_raw = lines[idx + 1]
+                lucky_color_raw = re.sub(r'.*ラッキーカラー[:：\s]*', '', line).strip()
             elif "ラッキーアイテム" in line:
-                lucky_item_raw = line.replace("ラッキーアイテム", "").replace(":", "").replace("：", "").strip()
-                if not lucky_item_raw and idx + 1 < len(lines):
-                    lucky_item_raw = lines[idx + 1]
-            elif len(line) > 10 and not any(k in line for k in list(ZODIAC_NAME_MAP.keys()) + ["位", "ラッキー"]):
-                if not description_raw:
-                    description_raw = line
-
-        # 번역 적용
-        lucky_color = translate_text(lucky_color_raw, translator) if lucky_color_raw else "골드"
-        lucky_item = translate_text(lucky_item_raw, translator) if lucky_item_raw else "손수건"
-        description = translate_text(description_raw, translator) if description_raw else "오늘 하루도 긍정적인 마음으로 시작해보세요."
+                lucky_item_raw = re.sub(r'.*ラッキーアイテム[:：\s]*', '', line).strip()
+            elif not any(k in line for k in list(ZODIAC_MAP.keys()) + ["位", "占い", "Horoscope", "朝日"]):
+                if len(line) >= 8:
+                    desc_candidates.append(line)
+                    
+        # 3. 운세 설명 문구 선정
+        description_raw = desc_candidates[0] if desc_candidates else "기분 좋은 하루를 보내세요."
+        
+        # 한국어 번역
+        lucky_color = translate_safe(lucky_color_raw, translator) if lucky_color_raw else "행운색"
+        lucky_item = translate_safe(lucky_item_raw, translator) if lucky_item_raw else "행운 아이템"
+        description = translate_safe(description_raw, translator)
         
         rankings.append({
-            "sign": matched_sign,
+            "sign": ko_sign,
             "rank": rank,
             "luckyColor": lucky_color,
             "luckyItem": lucky_item,
             "description": description
         })
-
-    # 12개 별자리가 완전히 파싱되지 않은 경우 누락 보정
-    existing_signs = {item["sign"] for item in rankings}
-    for sign in ZODIAC_NAME_MAP.values():
-        if sign not in existing_signs:
-            rankings.append({
-                "sign": sign,
-                "rank": len(rankings) + 1,
-                "luckyColor": "파란색",
-                "luckyItem": "다이어리",
-                "description": f"오늘 {sign} 의 운세입니다. 활기찬 하루를 보내세요."
-            })
-
+        
     rankings.sort(key=lambda x: x["rank"])
     return rankings
 
@@ -126,18 +117,22 @@ def main():
     kst = timezone(timedelta(hours=9))
     today_str = datetime.datetime.now(kst).strftime("%Y-%m-%d")
     
-    print("오하아사 최신 운세 데이터를 파싱 중입니다...")
-    rankings = scrape_ohaasa()
-    
+    print("아사히 방송 오하아사 운세 데이터를 수집합니다...")
+    try:
+        rankings = parse_ohaasa_stream()
+    except Exception as e:
+        print(f"파싱 실패: {e}")
+        return
+
     payload = {
         "date": today_str,
         "rankings": rankings
     }
-    
+
     with open("today.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
-        
-    print(f"[{today_str}] 크롤링 및 한글 번역 완료 (총 {len(rankings)} 개 별자리)")
+
+    print(f"[{today_str}] 크롤링 성공 (총 {len(rankings)} 개 별자리 저장 완료)")
 
 if __name__ == "__main__":
     main()
