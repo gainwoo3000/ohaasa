@@ -6,33 +6,33 @@ import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
-# 12개 일본어 별자리 키워드 매핑
-ZODIAC_MAP = {
-    "おひつじ座": "양자리",
-    "おうし座": "황소자리",
-    "ふたご座": "쌍둥이자리",
-    "かに座": "게자리",
-    "しし座": "사자자리",
-    "おとめ座": "처녀자리",
-    "てんびん座": "천칭자리",
-    "さそり座": "전갈자리",
-    "いて座": "사수자리",
-    "やぎ座": "염소자리",
-    "みずがめ座": "물병자리",
-    "うお座": "물고기자리"
+# 일본어 표기(히라가나/한자) 대응 매핑 테이블
+ZODIAC_NAME_MAP = {
+    "おひつじ": "양자리", "牡羊": "양자리",
+    "おうし": "황소자리", "牡牛": "황소자리",
+    "ふたご": "쌍둥이자리", "双子": "쌍둥이자리",
+    "かに": "게자리", "蟹": "게자리",
+    "しし": "사자자리", "獅子": "사자자리",
+    "おとめ": "처녀자리", "乙女": "처녀자리",
+    "てんびん": "천칭자리", "天秤": "천칭자리",
+    "さそり": "전갈자리", "蠍": "전갈자리",
+    "いて": "사수자리", "射手": "사수자리",
+    "やぎ": "염소자리", "山羊": "염소자리",
+    "みずがめ": "물병자리", "水瓶": "물병자리",
+    "うお": "물고기자리", "魚": "물고기자리"
 }
 
-def translate_safe(text: str, translator: GoogleTranslator) -> str:
+def translate_to_korean(text: str, translator: GoogleTranslator) -> str:
     if not text:
         return ""
     try:
-        res = translator.translate(text.strip())
-        return res if res else text.strip()
+        translated = translator.translate(text.strip())
+        return translated if translated else text.strip()
     except Exception as e:
-        print(f"번역 오류 ({text}): {e}")
+        print(f"번역 경고: {e}")
         return text.strip()
 
-def parse_ohaasa_stream():
+def scrape_ohaasa_exact():
     url = "https://www.asahi.co.jp/ohaasa/week/horoscope/index.html"
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -42,74 +42,90 @@ def parse_ohaasa_stream():
     response.encoding = "utf-8"
     
     if response.status_code != 200:
-        raise RuntimeError(f"웹사이트 접속 실패 (상태 코드: {response.status_code})")
+        raise RuntimeError(f"사이트 응답 오류: {response.status_code}")
         
     soup = BeautifulSoup(response.text, "html.parser")
-    
-    # script, style 태그 제거 후 순수 텍스트 추출
-    for tag in soup(["script", "style", "header", "footer", "nav"]):
-        tag.decompose()
-        
-    full_text = soup.get_text(separator="\n")
-    lines = [re.sub(r'\s+', ' ', line).strip() for line in full_text.split("\n") if line.strip()]
-    
     translator = GoogleTranslator(source="ja", target="ko")
+    
     rankings = []
     
-    # 텍스트 전체에서 각 별자리가 등장하는 줄 번호(인덱스) 수집
-    zodiac_indices = []
-    for idx, line in enumerate(lines):
-        for ja_name, ko_name in ZODIAC_MAP.items():
-            if ja_name in line:
-                zodiac_indices.append((idx, ja_name, ko_name))
-                break
-                
-    # 별자리 간 구간을 분할하여 상세 정보 파싱
-    for i, (start_idx, ja_sign, ko_sign) in enumerate(zodiac_indices):
-        end_idx = zodiac_indices[i + 1][0] if i + 1 < len(zodiac_indices) else min(start_idx + 15, len(lines))
-        chunk_lines = lines[start_idx:end_idx]
-        chunk_text = " ".join(chunk_lines)
-        
-        # 1. 순위 파싱 (1~12위)
-        rank = i + 1
-        rank_match = re.search(r'([1-9]|1[0-2])\s*位', chunk_text)
-        if rank_match:
-            rank = int(rank_match.group(1))
-        else:
-            num_match = re.search(r'\b([1-9]|1[0-2])\b', chunk_lines[0])
-            if num_match:
-                rank = int(num_match.group(1))
-                
-        # 2. 행운색 / 행운 아이템 파싱
-        lucky_color_raw = ""
-        lucky_item_raw = ""
-        desc_candidates = []
-        
-        for line in chunk_lines:
-            if "ラッキーカラー" in line:
-                lucky_color_raw = re.sub(r'.*ラッキーカラー[:：\s]*', '', line).strip()
-            elif "ラッキーアイテム" in line:
-                lucky_item_raw = re.sub(r'.*ラッキーアイテム[:：\s]*', '', line).strip()
-            elif not any(k in line for k in list(ZODIAC_MAP.keys()) + ["位", "占い", "Horoscope", "朝日"]):
-                if len(line) >= 8:
-                    desc_candidates.append(line)
+    # 1. 별자리 카드별 공통 부모 요소 탐색
+    names = soup.select(".horo-name")
+    ranks = soup.select(".horo-rank")
+    txts = soup.select(".horo-txt")
+    
+    # 개별 항목 개수 기반 매핑
+    total_count = min(len(names), len(ranks), len(txts))
+    
+    if total_count > 0:
+        for i in range(total_count):
+            name_text = names[i].get_text().strip()
+            rank_text = ranks[i].get_text().strip()
+            desc_text = txts[i].get_text().strip()
+            
+            # 별자리 매칭
+            matched_sign = None
+            for ja_key, ko_val in ZODIAC_NAME_MAP.items():
+                if ja_key in name_text:
+                    matched_sign = ko_val
+                    break
                     
-        # 3. 운세 설명 문구 선정
-        description_raw = desc_candidates[0] if desc_candidates else "기분 좋은 하루를 보내세요."
-        
-        # 한국어 번역
-        lucky_color = translate_safe(lucky_color_raw, translator) if lucky_color_raw else "행운색"
-        lucky_item = translate_safe(lucky_item_raw, translator) if lucky_item_raw else "행운 아이템"
-        description = translate_safe(description_raw, translator)
-        
-        rankings.append({
-            "sign": ko_sign,
-            "rank": rank,
-            "luckyColor": lucky_color,
-            "luckyItem": lucky_item,
-            "description": description
-        })
-        
+            if not matched_sign:
+                continue
+                
+            # 순위 숫자 추출
+            rank_digits = re.findall(r'\d+', rank_text)
+            rank_num = int(rank_digits[0]) if rank_digits else (i + 1)
+            
+            # 본문 한글 번역
+            korean_desc = translate_to_korean(desc_text, translator)
+            
+            rankings.append({
+                "sign": matched_sign,
+                "rank": rank_num,
+                "luckyColor": "-",
+                "luckyItem": "-",
+                "description": korean_desc if korean_desc else "오늘 하루도 활기차게 보내세요!"
+            })
+    else:
+        # 부모 블록을 순회하는 fallback 방식
+        cards = soup.find_all(lambda tag: tag.find(class_="horo-name") is not None)
+        for idx, card in enumerate(cards):
+            name_elem = card.find(class_="horo-name")
+            rank_elem = card.find(class_="horo-rank")
+            txt_elem = card.find(class_="horo-txt")
+            
+            if not name_elem:
+                continue
+                
+            name_text = name_elem.get_text().strip()
+            matched_sign = None
+            for ja_key, ko_val in ZODIAC_NAME_MAP.items():
+                if ja_key in name_text:
+                    matched_sign = ko_val
+                    break
+                    
+            if not matched_sign:
+                continue
+                
+            rank_num = idx + 1
+            if rank_elem:
+                rank_digits = re.findall(r'\d+', rank_elem.get_text())
+                if rank_digits:
+                    rank_num = int(rank_digits[0])
+                    
+            desc_raw = txt_elem.get_text().strip() if txt_elem else ""
+            korean_desc = translate_to_korean(desc_raw, translator)
+            
+            rankings.append({
+                "sign": matched_sign,
+                "rank": rank_num,
+                "luckyColor": "-",
+                "luckyItem": "-",
+                "description": korean_desc if korean_desc else "긍정적인 마음으로 하루를 보내세요."
+            })
+            
+    # 순위 오름차순 정렬
     rankings.sort(key=lambda x: x["rank"])
     return rankings
 
@@ -117,22 +133,18 @@ def main():
     kst = timezone(timedelta(hours=9))
     today_str = datetime.datetime.now(kst).strftime("%Y-%m-%d")
     
-    print("아사히 방송 오하아사 운세 데이터를 수집합니다...")
-    try:
-        rankings = parse_ohaasa_stream()
-    except Exception as e:
-        print(f"파싱 실패: {e}")
-        return
-
+    print(f"[{today_str}] 오하아사 운세 데이터를 수집합니다...")
+    rankings = scrape_ohaasa_exact()
+    
     payload = {
         "date": today_str,
         "rankings": rankings
     }
-
+    
     with open("today.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
-
-    print(f"[{today_str}] 크롤링 성공 (총 {len(rankings)} 개 별자리 저장 완료)")
+        
+    print(f"[{today_str}] today.json 생성이 완료되었습니다. (추출된 별자리: {len(rankings)} 개)")
 
 if __name__ == "__main__":
     main()
