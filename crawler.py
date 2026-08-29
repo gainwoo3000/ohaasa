@@ -7,7 +7,6 @@ from datetime import timezone, timedelta
 import time
 import requests
 from bs4 import BeautifulSoup
-from deep_translator import DeeplTranslator
 
 # DeepL API 키: 코드에 직접 쓰지 말고 환경 변수로 설정하세요.
 #   export DEEPL_API_KEY="your-api-key-here"
@@ -15,6 +14,11 @@ from deep_translator import DeeplTranslator
 # 유료 플랜(Pro) 키를 쓴다면 False로 바꾸세요.
 DEEPL_API_KEY = os.environ.get("DEEPL_API_KEY")
 DEEPL_USE_FREE_API = True
+DEEPL_API_URL = (
+    "https://api-free.deepl.com/v2/translate"
+    if DEEPL_USE_FREE_API
+    else "https://api.deepl.com/v2/translate"
+)
 
 if not DEEPL_API_KEY:
     raise RuntimeError(
@@ -41,14 +45,29 @@ ZODIAC_ID_MAP = {
 }
 
 
-def translate_to_korean(text: str, translator: DeeplTranslator, max_retries=3) -> str:
-    """호출 지연 및 재시도를 통한 안정적인 한글 번역"""
+def translate_to_korean(text: str, max_retries=3) -> str:
+    """DeepL API를 직접 호출해 일본어 -> 한국어 번역
+    (deep_translator 패키지의 DeeplTranslator는 내부 언어 목록이 오래돼
+    한국어(ko)를 지원 언어로 인식하지 못하는 버그가 있어 우회함)
+    """
     if not text:
         return ""
     for attempt in range(max_retries):
         try:
             time.sleep(0.3)  # 속도 제한 방지 딜레이
-            translated = translator.translate(text.strip())
+            resp = requests.post(
+                DEEPL_API_URL,
+                data={
+                    "auth_key": DEEPL_API_KEY,
+                    "text": text.strip(),
+                    "source_lang": "JA",
+                    "target_lang": "KO",
+                },
+                timeout=20,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            translated = data["translations"][0]["text"]
             if translated:
                 return translated.strip()
         except Exception as e:
@@ -123,13 +142,6 @@ def scrape_uranai():
     if not rank_map:
         raise RuntimeError("순위 목록(.rank-box)을 찾을 수 없습니다. 사이트 구조가 변경되었을 수 있습니다.")
 
-    translator = DeeplTranslator(
-        api_key=DEEPL_API_KEY,
-        source="ja",
-        target="ko",
-        use_free_api=DEEPL_USE_FREE_API,
-    )
-
     rankings = []
     for box in soup.select(".seiza-box[id]"):
         label = box.get("id")
@@ -145,9 +157,9 @@ def scrape_uranai():
 
         period, desc_ja, color_ja, key_ja = parse_seiza_box(box)
 
-        korean_desc = translate_to_korean(desc_ja, translator) or "오늘 하루도 활기차게 보내세요!"
-        korean_color = translate_to_korean(color_ja, translator) if color_ja else "-"
-        korean_key = translate_to_korean(key_ja, translator) if key_ja else "-"
+        korean_desc = translate_to_korean(desc_ja) or "오늘 하루도 활기차게 보내세요!"
+        korean_color = translate_to_korean(color_ja) if color_ja else "-"
+        korean_key = translate_to_korean(key_ja) if key_ja else "-"
 
         rankings.append({
             "sign": sign,
