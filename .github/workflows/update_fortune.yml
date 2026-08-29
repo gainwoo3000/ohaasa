@@ -1,8 +1,8 @@
 name: Daily OhaAsa Fortune Crawler
 on:
   schedule:
-    # UTC 22:30 = 한국/일본 표준시(KST) 매일 아침 07:30
-    - cron: '30 22 * * *'
+    # UTC 22:15 = 한국/일본 표준시(KST) 매일 아침 07:15
+    - cron: '15 22 * * *'
   workflow_dispatch:
 
 jobs:
