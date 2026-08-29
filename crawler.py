@@ -76,7 +76,7 @@ def translate_to_korean(text: str, max_retries=3) -> str:
     return text.strip()
 
 
-def fetch_html() -> str:
+def fetch_html() -> bytes:
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -87,9 +87,10 @@ def fetch_html() -> str:
     except requests.exceptions.RequestException as e:
         raise RuntimeError(f"페이지 요청 실패: {e}") from e
 
-    # 페이지 meta charset이 Shift_JIS로 명시되어 있으므로 명시적으로 지정
-    response.encoding = "shift_jis"
-    return response.text
+    # 인코딩을 임의로 단정하지 않고 원본 바이트를 그대로 반환.
+    # 실제 서버 응답 인코딩이 meta 태그와 다를 수 있으므로(UTF-8로 확인됨),
+    # BeautifulSoup(UnicodeDammit)이 바이트에서 직접 감지하도록 둔다.
+    return response.content
 
 
 def parse_rank_order(soup: BeautifulSoup) -> dict:
