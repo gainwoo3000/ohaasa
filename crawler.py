@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import sys
 import datetime
 from datetime import timezone, timedelta
 import time
@@ -171,7 +172,7 @@ def main():
         rankings = scrape_uranai()
     except RuntimeError as e:
         print(f"수집 실패: {e}")
-        return
+        sys.exit(1)  # CI에서 이 실행을 실패로 표시하기 위함
 
     payload = {
         "date": today_str,
