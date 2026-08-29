@@ -49,16 +49,21 @@ def translate_to_korean(text: str, max_retries=3) -> str:
     """DeepL API를 직접 호출해 일본어 -> 한국어 번역
     (deep_translator 패키지의 DeeplTranslator는 내부 언어 목록이 오래돼
     한국어(ko)를 지원 언어로 인식하지 못하는 버그가 있어 우회함)
+
+    주의: DeepL은 2025년 3월부터 body의 auth_key 파라미터 인증을 지원 중단했고
+    2025년 11월에 완전히 제거했습니다. 반드시 Authorization 헤더로 인증해야 합니다.
+    https://developers.deepl.com/docs/resources/breaking-changes-change-notices/march-2025-deprecating-get-requests-to-translate-and-authenticating-with-auth_key
     """
     if not text:
         return ""
+    headers = {"Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}"}
     for attempt in range(max_retries):
         try:
             time.sleep(0.3)  # 속도 제한 방지 딜레이
             resp = requests.post(
                 DEEPL_API_URL,
+                headers=headers,
                 data={
-                    "auth_key": DEEPL_API_KEY,
                     "text": text.strip(),
                     "source_lang": "JA",
                     "target_lang": "KO",
@@ -70,6 +75,11 @@ def translate_to_korean(text: str, max_retries=3) -> str:
             translated = data["translations"][0]["text"]
             if translated:
                 return translated.strip()
+        except requests.exceptions.HTTPError as e:
+            body = e.response.text[:200] if e.response is not None else ""
+            status = e.response.status_code if e.response is not None else "?"
+            print(f"번역 재시도 ({attempt + 1}/{max_retries}) - HTTP {status}: {body}")
+            time.sleep(1.0)
         except Exception as e:
             print(f"번역 재시도 ({attempt + 1}/{max_retries}) - {text}: {e}")
             time.sleep(1.0)
