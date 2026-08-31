@@ -26,7 +26,36 @@ if not DEEPL_API_KEY:
         "https://www.deepl.com/ko/pro#developer 에서 발급받은 키를 설정하세요."
     )
 
-URL = "https://www.tv-asahi.co.jp/goodmorning/uranai/"
+KST = timezone(timedelta(hours=9))
+
+# ---------------------------------------------------------------------------
+# 평일(월~금) 소스: 오하아사 JSON API
+# ---------------------------------------------------------------------------
+WEEKDAY_API_URL = "https://www.asahi.co.jp/data/ohaasa2020/horoscope.json"
+
+# horoscope_st 코드 -> 별자리 매핑
+# 주의: API 응답 자체에는 코드-별자리 매핑 정보가 없습니다.
+# 서양 12궁 순서(おひつじ=01 ... うお=12)를 가정한 것이므로,
+# 실제 페이지에서 오늘자 1위 별자리가 어떤 코드로 나오는지 한 번 대조 확인하는 걸 권장합니다.
+ZODIAC_ST_MAP = {
+    "01": "양자리",
+    "02": "황소자리",
+    "03": "쌍둥이자리",
+    "04": "게자리",
+    "05": "사자자리",
+    "06": "처녀자리",
+    "07": "천칭자리",
+    "08": "전갈자리",
+    "09": "사수자리",
+    "10": "염소자리",
+    "11": "물병자리",
+    "12": "물고기자리",
+}
+
+# ---------------------------------------------------------------------------
+# 주말(토~일) 소스: 굿모닝(グッド！モーニング) 페이지
+# ---------------------------------------------------------------------------
+WEEKEND_URL = "https://www.tv-asahi.co.jp/goodmorning/uranai/"
 
 # 페이지의 id/data-label(로마자 표기) -> 한글 별자리 매핑
 ZODIAC_ID_MAP = {
@@ -86,19 +115,101 @@ def translate_to_korean(text: str, max_retries=3) -> str:
     return text.strip()
 
 
-def fetch_html() -> bytes:
+def is_weekday_kst() -> bool:
+    """한국 시간 기준 월(0)~금(4)이면 True, 토(5)/일(6)이면 False"""
+    return datetime.datetime.now(KST).weekday() < 5
+
+
+# ---------------------------------------------------------------------------
+# 평일: JSON API 파싱
+# ---------------------------------------------------------------------------
+def fetch_weekday_json():
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     try:
-        response = requests.get(URL, headers=headers, timeout=20)
+        response = requests.get(WEEKDAY_API_URL, headers=headers, timeout=20)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        raise RuntimeError(f"오하아사 API 요청 실패: {e}") from e
+
+    try:
+        data = response.json()
+    except json.JSONDecodeError as e:
+        raise RuntimeError(f"오하아사 API 응답이 JSON이 아닙니다: {e}") from e
+
+    if not data:
+        raise RuntimeError("오하아사 API 응답이 비어 있습니다.")
+
+    return data[0].get("detail", [])
+
+
+def parse_horoscope_text(raw_text: str):
+    """tab(\t)으로 구분된 텍스트를 (설명, 럭키항목) 튜플로 분리"""
+    parts = [p.strip() for p in raw_text.split("\t") if p.strip()]
+    if not parts:
+        return "", ""
+    if len(parts) == 1:
+        return parts[0], ""
+    description_parts, lucky = parts[:-1], parts[-1]
+    return " ".join(description_parts), lucky
+
+
+def scrape_weekday():
+    details = fetch_weekday_json()
+
+    rankings = []
+    for item in details:
+        st_code = item.get("horoscope_st", "")
+        sign = ZODIAC_ST_MAP.get(st_code)
+        if not sign:
+            print(f"경고: 알 수 없는 horoscope_st 코드 '{st_code}' — 건너뜁니다.")
+            continue
+
+        rank_raw = item.get("ranking_no", "")
+        try:
+            rank_num = int(rank_raw)
+        except (TypeError, ValueError):
+            print(f"경고: ranking_no '{rank_raw}'를 숫자로 변환할 수 없어 건너뜁니다.")
+            continue
+
+        raw_text = item.get("horoscope_text", "")
+        desc_ja, lucky_ja = parse_horoscope_text(raw_text)
+
+        korean_desc = translate_to_korean(desc_ja) or "오늘 하루도 활기차게 보내세요!"
+        # 이 소스는 럭키컬러/아이템이 분리되어 있지 않고 한 필드에 섞여 있어
+        # luckyItem에만 채우고 luckyColor는 "-"로 둔다.
+        korean_lucky = translate_to_korean(lucky_ja) if lucky_ja else "-"
+
+        rankings.append({
+            "sign": sign,
+            "rank": rank_num,
+            "period": "",
+            "luckyColor": "-",
+            "luckyItem": korean_lucky,
+            "description": korean_desc,
+        })
+
+    rankings.sort(key=lambda x: x["rank"])
+    return rankings
+
+
+# ---------------------------------------------------------------------------
+# 주말: HTML 파싱
+# ---------------------------------------------------------------------------
+def fetch_weekend_html() -> bytes:
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    try:
+        response = requests.get(WEEKEND_URL, headers=headers, timeout=20)
         response.raise_for_status()
     except requests.exceptions.RequestException as e:
         raise RuntimeError(f"페이지 요청 실패: {e}") from e
 
     # 인코딩을 임의로 단정하지 않고 원본 바이트를 그대로 반환.
-    # 실제 서버 응답 인코딩이 meta 태그와 다를 수 있으므로(UTF-8로 확인됨),
     # BeautifulSoup(UnicodeDammit)이 바이트에서 직접 감지하도록 둔다.
     return response.content
 
@@ -145,8 +256,8 @@ def parse_seiza_box(box) -> tuple:
     return period, description, lucky_color, lucky_key
 
 
-def scrape_uranai():
-    html = fetch_html()
+def scrape_weekend():
+    html = fetch_weekend_html()
     soup = BeautifulSoup(html, "html.parser")
 
     rank_map = parse_rank_order(soup)
@@ -185,11 +296,22 @@ def scrape_uranai():
     return rankings
 
 
-def main():
-    kst = timezone(timedelta(hours=9))
-    today_str = datetime.datetime.now(kst).strftime("%Y-%m-%d")
+# ---------------------------------------------------------------------------
+# 공통 진입점
+# ---------------------------------------------------------------------------
+def scrape_uranai():
+    if is_weekday_kst():
+        print("평일(월~금) — 오하아사 JSON API에서 수집합니다.")
+        return scrape_weekday()
+    else:
+        print("주말(토~일) — 굿모닝 페이지에서 수집합니다.")
+        return scrape_weekend()
 
-    print(f"[{today_str}] 굿모닝 별자리 운세 수집 및 번역을 시작합니다...")
+
+def main():
+    today_str = datetime.datetime.now(KST).strftime("%Y-%m-%d")
+
+    print(f"[{today_str}] 별자리 운세 수집 및 번역을 시작합니다...")
 
     try:
         rankings = scrape_uranai()
