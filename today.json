@@ -1,101 +1,101 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "rankings": [
     {
-      "sign": "사자자리",
+      "sign": "사수자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "참치 회",
-      "description": "재능을 마음껏 발휘하며 대활약! 이 기회를 놓치지 않도록 적극적인 자세로 힘차게 나아가길 바래"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "레버",
-      "description": "일이 뜻대로 풀릴 거예요. 적극적으로 움직이면 GOOD"
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "노란색",
-      "description": "기쁜 만남을 기대하며 활기찬 곳으로 발걸음을 옮겨"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "야키토리",
-      "description": "새로운 목표를 찾을 수 있을 것 같은 예감, 동료의 말에서 힌트를 얻을 수도 있다"
+      "luckyItem": "분홍색",
+      "description": "마음에 드는 사람의 마음을 사로잡을 기회♥ 대담한 행동에 행운이 따를 거예요. 당신의 마음을 전해 보는 건 어떨까요?"
     },
     {
       "sign": "물병자리",
-      "rank": 5,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "스톨",
-      "description": "하고 싶은 일을 시작할 수 있을 것 같다. 긍정적인 생각에 행운이 따른다."
+      "luckyItem": "DVD",
+      "description": "일이 술술 풀리는 날, 해야 할 일을 단숨에 처리하고"
     },
     {
-      "sign": "양자리",
-      "rank": 6,
+      "sign": "사자자리",
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "열쇠고리",
-      "description": "알뜰한 정보를 얻으세요♪ 행운의 주인공은 믿을 수 있는 친구"
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "하늘색",
-      "description": "사람들과의 교류가 활발해지는 날, 필요한 것에 대한 지출은 아끼지 말고"
+      "luckyItem": "치라시즈시",
+      "description": "멋진 만남이 있을 것 같은 예감. 좋은 자극을 받을지도 몰라요."
     },
     {
       "sign": "게자리",
-      "rank": 8,
+      "rank": 4,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "손수건",
-      "description": "주변에서 자극을 받아 의욕이 높아집니다. 호기심을 가지고 행동하면 좋습니다."
+      "luckyItem": "수건",
+      "description": "큰 성과를 거둘 수 있을 것 같습니다. 적극적으로 움직이면 좋습니다."
     },
     {
-      "sign": "물고기자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "오곡밥",
-      "description": "문제가 생길 수도 있으니 감정을 잘 조절해야 합니다."
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 10,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "노란빛이 도는 초록색",
-      "description": "너무 좋은 제안에는 주의가 필요하다. 신중히 생각한 뒤 결정을 내려야 한다."
-    },
-    {
-      "sign": "황소자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "만화",
-      "description": "오해를 살 것 같으니 오늘은 조심스럽게 행동하도록 해"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 12,
+      "sign": "쌍둥이자리",
+      "rank": 5,
       "period": "",
       "luckyColor": "-",
       "luckyItem": "빨간색",
-      "description": "좋은 의도로 한 일이 역효과를 낼 때, 주변 사람들에게 폐를 끼칠 수도 있으니 참견은 적당히 하세요."
+      "description": "원하던 물건을 알뜰하게 구입♪ 할인 세일을 꼭 확인하세요"
+    },
+    {
+      "sign": "천칭자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "허브",
+      "description": "기쁜 지원에 큰 기대를 걸고, 도움을 받으면 감사의 말을 전하세요"
+    },
+    {
+      "sign": "물고기자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "라자냐",
+      "description": "작은 행복을 느낄 때, 긍정적인 사고방식을 잊지 마세요"
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "노란빛이 도는 녹색",
+      "description": "돈을 너무 많이 써서 지갑 사정이 빠듯하다면, 통신비를 재검토해 보세요"
+    },
+    {
+      "sign": "양자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "컴퓨터",
+      "description": "상대방과 마음이 엇갈릴 것 같아. 지금은 네 페이스를 유지해."
+    },
+    {
+      "sign": "염소자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "카드 지갑",
+      "description": "부주의한 실수에 주의해야 합니다. 하나씩 차근차근 해나가면 괜찮습니다."
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "손수건",
+      "description": "제멋대로인 사람으로 보일 수도 있으니, 감정적으로 반응하는 것은 금물입니다."
+    },
+    {
+      "sign": "황소자리",
+      "rank": 12,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "파니니",
+      "description": "주변의 평가가 떨어졌다… 평소 행동을 되돌아보고, 정해진 규칙은 철저히 지키자"
     }
   ]
 }
