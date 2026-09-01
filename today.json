@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "rankings": [
     {
-      "sign": "사수자리",
+      "sign": "황소자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "분홍색",
-      "description": "마음에 드는 사람의 마음을 사로잡을 기회♥ 대담한 행동에 행운이 따를 거예요. 당신의 마음을 전해 보는 건 어떨까요?"
-    },
-    {
-      "sign": "물병자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "DVD",
-      "description": "일이 술술 풀리는 날, 해야 할 일을 단숨에 처리하고"
+      "luckyItem": "흰색",
+      "description": "지금까지의 노력이 인정받을 때, 단숨에 주목을 받게 될 거야! 자기 어필은 확실히 해두자"
     },
     {
       "sign": "사자자리",
-      "rank": 3,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "치라시즈시",
-      "description": "멋진 만남이 있을 것 같은 예감. 좋은 자극을 받을지도 몰라요."
-    },
-    {
-      "sign": "게자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "수건",
-      "description": "큰 성과를 거둘 수 있을 것 같습니다. 적극적으로 움직이면 좋습니다."
+      "luckyItem": "시시토 고추",
+      "description": "예상치 못한 행운이 찾아올 것 같네요. 하고 싶은 일을 주변 사람들에게 이야기해 보는 건 어떨까요?"
     },
     {
       "sign": "쌍둥이자리",
-      "rank": 5,
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "빨간색",
-      "description": "원하던 물건을 알뜰하게 구입♪ 할인 세일을 꼭 확인하세요"
+      "luckyItem": "커피잔",
+      "description": "연애 운이 좋아서 행복할 거예요♥ 솔직한 태도를 유지하면 GOOD"
+    },
+    {
+      "sign": "사수자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "덴푸라",
+      "description": "유익한 조언을 얻어보세요. 윗사람과 시간을 보내는 것도 좋을 것 같아요."
     },
     {
       "sign": "천칭자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "알람 시계",
+      "description": "알뜰하게 쇼핑할 수 있을 것 같은 예감. 정보 수집에 힘쓰면 ◎"
+    },
+    {
+      "sign": "게자리",
       "rank": 6,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "허브",
-      "description": "기쁜 지원에 큰 기대를 걸고, 도움을 받으면 감사의 말을 전하세요"
+      "luckyItem": "검은색",
+      "description": "마음에 드는 상대와 급속도로 가까워질 기회, 약간의 줄다리기에 행운이 따를 것"
     },
     {
-      "sign": "물고기자리",
+      "sign": "물병자리",
       "rank": 7,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "라자냐",
-      "description": "작은 행복을 느낄 때, 긍정적인 사고방식을 잊지 마세요"
+      "luckyItem": "대두",
+      "description": "즐거운 시간을 보낼 수 있을 거야. 취미 활동 관련 주제를 추천해"
     },
     {
-      "sign": "전갈자리",
+      "sign": "물고기자리",
       "rank": 8,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "노란빛이 도는 녹색",
-      "description": "돈을 너무 많이 써서 지갑 사정이 빠듯하다면, 통신비를 재검토해 보세요"
-    },
-    {
-      "sign": "양자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "컴퓨터",
-      "description": "상대방과 마음이 엇갈릴 것 같아. 지금은 네 페이스를 유지해."
-    },
-    {
-      "sign": "염소자리",
-      "rank": 10,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "카드 지갑",
-      "description": "부주의한 실수에 주의해야 합니다. 하나씩 차근차근 해나가면 괜찮습니다."
+      "luckyItem": "티슈 케이스",
+      "description": "감정에 휩쓸리면 운이 떨어진다. 우선 심호흡을 하며 마음을 가라앉히자."
     },
     {
       "sign": "처녀자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "주황색",
+      "description": "비밀을 숨기는 것은 금물입니다. 성의를 다하는 행동이 중요합니다."
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "컴퓨터",
+      "description": "성과를 제대로 내지 못해 짜증이 나고 불만을 털어놓고 싶어도 지금은 참아야 한다"
+    },
+    {
+      "sign": "염소자리",
       "rank": 11,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "손수건",
-      "description": "제멋대로인 사람으로 보일 수도 있으니, 감정적으로 반응하는 것은 금물입니다."
+      "luckyItem": "분홍색",
+      "description": "우유부단한 태도를 조심하고, 대답은 분명히 하도록 하세요"
     },
     {
-      "sign": "황소자리",
+      "sign": "양자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "파니니",
-      "description": "주변의 평가가 떨어졌다… 평소 행동을 되돌아보고, 정해진 규칙은 철저히 지키자"
+      "luckyItem": "스마트폰",
+      "description": "대인관계에 문제가 생길 수 있어요. 누군가를 상처 입힐지도 몰라요… 오해에서 비롯된 발언은 삼가 주세요."
     }
   ]
 }
