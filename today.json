@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "rankings": [
     {
-      "sign": "황소자리",
+      "sign": "물병자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "흰색",
-      "description": "지금까지의 노력이 인정받을 때, 단숨에 주목을 받게 될 거야! 자기 어필은 확실히 해두자"
-    },
-    {
-      "sign": "사자자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "시시토 고추",
-      "description": "예상치 못한 행운이 찾아올 것 같네요. 하고 싶은 일을 주변 사람들에게 이야기해 보는 건 어떨까요?"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "커피잔",
-      "description": "연애 운이 좋아서 행복할 거예요♥ 솔직한 태도를 유지하면 GOOD"
+      "luckyItem": "운동화",
+      "description": "목표를 달성할 수 있을 것 같은 예감♪ 그동안의 노력이 결실을 맺을 것 같아요. 더 높은 곳을 향해 나아가자"
     },
     {
       "sign": "사수자리",
-      "rank": 4,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "덴푸라",
-      "description": "유익한 조언을 얻어보세요. 윗사람과 시간을 보내는 것도 좋을 것 같아요."
+      "luckyItem": "쿠시카츠",
+      "description": "데이트 제의가 들어올지도 몰라요♥ 긍정적으로 고려해 보면 GOOD"
+    },
+    {
+      "sign": "사자자리",
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "생수",
+      "description": "예상치 못한 수입이 생겨서 기분이 들뜬다! 원하는 물건을 사세요"
     },
     {
       "sign": "천칭자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "벨트",
+      "description": "기대 이상의 성과 달성, 신속한 결단이 행운의 열쇠"
+    },
+    {
+      "sign": "쌍둥이자리",
       "rank": 5,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "알람 시계",
-      "description": "알뜰하게 쇼핑할 수 있을 것 같은 예감. 정보 수집에 힘쓰면 ◎"
+      "luckyItem": "덤벨",
+      "description": "새로운 길을 개척할 기회, 주변 사람들과의 대화에서 힌트를 얻을 수 있을지도 모릅니다"
     },
     {
-      "sign": "게자리",
+      "sign": "황소자리",
       "rank": 6,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "검은색",
-      "description": "마음에 드는 상대와 급속도로 가까워질 기회, 약간의 줄다리기에 행운이 따를 것"
+      "luckyItem": "사진",
+      "description": "알뜰하게 절약할 수 있을 것 같아요. 점심을 도시락으로 해결하면 ◎"
     },
     {
-      "sign": "물병자리",
+      "sign": "게자리",
       "rank": 7,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "대두",
-      "description": "즐거운 시간을 보낼 수 있을 거야. 취미 활동 관련 주제를 추천해"
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "티슈 케이스",
-      "description": "감정에 휩쓸리면 운이 떨어진다. 우선 심호흡을 하며 마음을 가라앉히자."
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "주황색",
-      "description": "비밀을 숨기는 것은 금물입니다. 성의를 다하는 행동이 중요합니다."
+      "luckyItem": "야채 수프",
+      "description": "멋진 사람에게서 많은 것을 배울 수 있을 때, 좋은 점은 적극적으로 흡수하자"
     },
     {
       "sign": "전갈자리",
-      "rank": 10,
+      "rank": 8,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "컴퓨터",
-      "description": "성과를 제대로 내지 못해 짜증이 나고 불만을 털어놓고 싶어도 지금은 참아야 한다"
+      "luckyItem": "자전거",
+      "description": "문제를 미연에 방지할 수 있을지도 모릅니다. 판단이 서지 않을 때는 누군가에게 상담해 보세요."
     },
     {
-      "sign": "염소자리",
-      "rank": 11,
+      "sign": "물고기자리",
+      "rank": 9,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "분홍색",
-      "description": "우유부단한 태도를 조심하고, 대답은 분명히 하도록 하세요"
+      "luckyItem": "파란색",
+      "description": "주변에 너무 많이 의지하게 되는 날, 스스로의 힘으로 헤쳐 나가기 위해 노력하자"
     },
     {
       "sign": "양자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "화분",
+      "description": "갑작스러운 일정 변경에 허둥지둥… 침착하게 대처하면 괜찮아요"
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "스콘",
+      "description": "돈을 빌려주거나 빌릴 때는 주의가 필요하다. 용기를 내어 단호하게 거절하라."
+    },
+    {
+      "sign": "염소자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "스마트폰",
-      "description": "대인관계에 문제가 생길 수 있어요. 누군가를 상처 입힐지도 몰라요… 오해에서 비롯된 발언은 삼가 주세요."
+      "luckyItem": "카메라",
+      "description": "금방 게을러질 것 같아… 일을 미루는 건 안 돼. 지금 해야 할 일에 집중하도록 하자."
     }
   ]
 }
