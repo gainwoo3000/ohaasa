@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "rankings": [
     {
-      "sign": "물병자리",
+      "sign": "사자자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "운동화",
-      "description": "목표를 달성할 수 있을 것 같은 예감♪ 그동안의 노력이 결실을 맺을 것 같아요. 더 높은 곳을 향해 나아가자"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "쿠시카츠",
-      "description": "데이트 제의가 들어올지도 몰라요♥ 긍정적으로 고려해 보면 GOOD"
-    },
-    {
-      "sign": "사자자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "생수",
-      "description": "예상치 못한 수입이 생겨서 기분이 들뜬다! 원하는 물건을 사세요"
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "벨트",
-      "description": "기대 이상의 성과 달성, 신속한 결단이 행운의 열쇠"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "덤벨",
-      "description": "새로운 길을 개척할 기회, 주변 사람들과의 대화에서 힌트를 얻을 수 있을지도 모릅니다"
-    },
-    {
-      "sign": "황소자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "사진",
-      "description": "알뜰하게 절약할 수 있을 것 같아요. 점심을 도시락으로 해결하면 ◎"
-    },
-    {
-      "sign": "게자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "야채 수프",
-      "description": "멋진 사람에게서 많은 것을 배울 수 있을 때, 좋은 점은 적극적으로 흡수하자"
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "자전거",
-      "description": "문제를 미연에 방지할 수 있을지도 모릅니다. 판단이 서지 않을 때는 누군가에게 상담해 보세요."
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "파란색",
-      "description": "주변에 너무 많이 의지하게 되는 날, 스스로의 힘으로 헤쳐 나가기 위해 노력하자"
+      "luckyItem": "액세서리",
+      "description": "행운이 가득한 날이에요. 활발하게 움직여 보세요. 긍정적인 태도가 GOOD"
     },
     {
       "sign": "양자리",
+      "rank": 2,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "갈색",
+      "description": "작업이 생각대로 진행될지도 모른다. 주변의 지원도 크게 기대된다."
+    },
+    {
+      "sign": "천칭자리",
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "배추",
+      "description": "탁월한 집중력을 발휘해 보자! 상상 이상의 결과를 얻을 수 있을 거야"
+    },
+    {
+      "sign": "황소자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "바인더",
+      "description": "이상적인 상대를 만날 것 같은 예감♥ 가까운 곳에 인연이 있을 것 같아요"
+    },
+    {
+      "sign": "물병자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "키마 카레",
+      "description": "유익한 정보를 얻으려면 인터넷이나 신문을 확인해 보세요"
+    },
+    {
+      "sign": "사수자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "티슈 케이스",
+      "description": "정중한 응대가 좋은 인상을 줍니다♪ 말투에 신경 쓰는 게 좋을 것 같아요"
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "향수",
+      "description": "사랑의 고민이 생길 것 같아… 너무 심각하게 생각하지 말아 줘"
+    },
+    {
+      "sign": "물고기자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "야키소바",
+      "description": "가족과의 관계가 어색하다. 차분히 대화를 나눌 시간을 마련해"
+    },
+    {
+      "sign": "게자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "일정 수첩",
+      "description": "감정 조절이 서툴다면, 몸을 움직여 기분을 전환해 보세요"
+    },
+    {
+      "sign": "전갈자리",
       "rank": 10,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "화분",
-      "description": "갑작스러운 일정 변경에 허둥지둥… 침착하게 대처하면 괜찮아요"
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "스콘",
-      "description": "돈을 빌려주거나 빌릴 때는 주의가 필요하다. 용기를 내어 단호하게 거절하라."
+      "luckyItem": "보라색",
+      "description": "불만이 들어 속이 답답하지만, 불평은 하지 말자"
     },
     {
       "sign": "염소자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "목캔디",
+      "description": "예기치 못한 일이 생길 수도 있으니 오늘은 조심해서 지내렴"
+    },
+    {
+      "sign": "처녀자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "카메라",
-      "description": "금방 게을러질 것 같아… 일을 미루는 건 안 돼. 지금 해야 할 일에 집중하도록 하자."
+      "luckyItem": "볶음밥",
+      "description": "의욕이 떨어지고 기운이 쭉 쏙 빠진다. 너무 무리하는 건 금물이다. 너무 무리하지 않도록 하자."
     }
   ]
 }
