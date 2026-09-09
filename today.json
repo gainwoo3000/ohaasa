@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "rankings": [
     {
-      "sign": "사수자리",
+      "sign": "물병자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "우동",
-      "description": "일이 뜻대로 풀릴 것 같아요. 계획적인 행동에 행운이 따르니, 활기차게 지내세요."
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "초록색",
-      "description": "유익한 정보를 얻자! 주변 사람들과의 대화에서 힌트를 얻을 수도 있어요"
-    },
-    {
-      "sign": "물병자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "티슈 케이스",
-      "description": "새로운 일에 도전할 기회, 적극적인 자세를 갖도록 노력합시다"
-    },
-    {
-      "sign": "황소자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "귤",
-      "description": "가까운 사람과 더 친해질지도 몰라요. 작은 선물을 해보는 건 어떨까요?"
+      "luckyItem": "블루 치즈",
+      "description": "목표를 달성할 기회, 사고방식의 전환이 행운의 열쇠입니다. 기세를 몰아 힘차게 나아가세요."
     },
     {
       "sign": "게자리",
-      "rank": 5,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "봉제인형",
-      "description": "좋은 결과를 얻을 수 있을 것 같은 예감. 적극적으로 의견을 내면 GOOD"
+      "luckyItem": "만화",
+      "description": "지금까지의 노력이 결실을 맺을 거야. 적극적인 자세가 GOOD"
     },
     {
-      "sign": "사자자리",
-      "rank": 6,
+      "sign": "사수자리",
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "유부",
-      "description": "평온한 하루를 보낼 수 있을 거야. 일정에 여유를 두면 더 좋아◎"
+      "luckyItem": "나폴리탄",
+      "description": "짝사랑이 한 걸음 더 나아가요♪ 흐름에 몸을 맡겨 보세요"
     },
     {
-      "sign": "양자리",
-      "rank": 7,
+      "sign": "천칭자리",
+      "rank": 4,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "보석 상자",
-      "description": "몰랐던 내 매력을 발견♪ 친구가 알려줄지도 몰라"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "텐동",
-      "description": "주변 사람들을 행복하게 만드는 힘이 있으니, 밝은 미소로 대해 주세요"
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "우표",
-      "description": "마음에 망설임이 생겨 답답하다면, 믿을 수 있는 동료에게 상담해 보자"
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 10,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "계산기",
-      "description": "대인관계가 잘 풀리지 않아 우울하다면, 협조심을 소중히 여기자"
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "센베이",
-      "description": "돈을 낭비하고 있지는 않니? 정말 필요한 것만 사도록 해"
+      "luckyItem": "수건",
+      "description": "쇼핑을 즐기기에 딱 좋을 것 같네요. 취향이 비슷한 친구와 함께 나가보는 건 어떨까요?"
     },
     {
       "sign": "염소자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "해산물 카레",
+      "description": "미래에 대해 생각해 볼 계기가…! 긍정적인 사고방식이 ◎"
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "화분",
+      "description": "좋은 결과를 얻을 수도 있다. 신중한 행동에 행운이 따른다."
+    },
+    {
+      "sign": "황소자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "노란빛이 도는 초록색",
+      "description": "연애 운이 좋아질 것 같은 예감♥ 마음에 드는 사람에게 먼저 다가가 보세요"
+    },
+    {
+      "sign": "사자자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "타누키 소바",
+      "description": "새로운 발견에 설레는 마음, 활동 범위를 넓혀 보세요"
+    },
+    {
+      "sign": "양자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "필통",
+      "description": "자신과 차분히 마주할 수 있는 날, 오늘은 집에서 보내는 게 좋을지도 몰라"
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "금색",
+      "description": "일이 바빠져서 허둥지둥… 부주의한 실수 조심해"
+    },
+    {
+      "sign": "물고기자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "함박스테이크",
+      "description": "예산 초과로 지갑 사정이 빠듯해져 고가 상품 구매는 보류하기로 했다"
+    },
+    {
+      "sign": "처녀자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "감색",
-      "description": "의욕이 좀처럼 생기지 않을 때는 기분 전환할 시간을 가지면서 인내심을 가지고 작업에 임하자"
+      "luckyItem": "손수건",
+      "description": "눈에 띄게 될지도 몰라. 경솔한 발언에 주의하고, 당분간은 가급적 혼자 지내자."
     }
   ]
 }
