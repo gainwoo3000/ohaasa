@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "rankings": [
     {
-      "sign": "물병자리",
+      "sign": "처녀자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "블루 치즈",
-      "description": "목표를 달성할 기회, 사고방식의 전환이 행운의 열쇠입니다. 기세를 몰아 힘차게 나아가세요."
-    },
-    {
-      "sign": "게자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "만화",
-      "description": "지금까지의 노력이 결실을 맺을 거야. 적극적인 자세가 GOOD"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "나폴리탄",
-      "description": "짝사랑이 한 걸음 더 나아가요♪ 흐름에 몸을 맡겨 보세요"
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "수건",
-      "description": "쇼핑을 즐기기에 딱 좋을 것 같네요. 취향이 비슷한 친구와 함께 나가보는 건 어떨까요?"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "해산물 카레",
-      "description": "미래에 대해 생각해 볼 계기가…! 긍정적인 사고방식이 ◎"
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "화분",
-      "description": "좋은 결과를 얻을 수도 있다. 신중한 행동에 행운이 따른다."
+      "luckyItem": "잡지",
+      "description": "기쁜 소식이 들려올지도 몰라요. 친구와의 대화에서 힌트를 얻으세요. ‘이거다!’ 싶으면 바로 행동으로 옮기세요."
     },
     {
       "sign": "황소자리",
-      "rank": 7,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "노란빛이 도는 초록색",
-      "description": "연애 운이 좋아질 것 같은 예감♥ 마음에 드는 사람에게 먼저 다가가 보세요"
+      "luckyItem": "망고",
+      "description": "소원이 이루어질 것 같은 예감. 주변 사람들에게 알리면 GOOD"
     },
     {
-      "sign": "사자자리",
-      "rank": 8,
+      "sign": "게자리",
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "타누키 소바",
-      "description": "새로운 발견에 설레는 마음, 활동 범위를 넓혀 보세요"
+      "luckyItem": "말린 멸치",
+      "description": "머리가 더 빨리 돌아갈 것 같아. 할 일을 쓱쓱 처리할 수 있을 거야."
     },
     {
-      "sign": "양자리",
-      "rank": 9,
+      "sign": "사수자리",
+      "rank": 4,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "필통",
-      "description": "자신과 차분히 마주할 수 있는 날, 오늘은 집에서 보내는 게 좋을지도 몰라"
+      "luckyItem": "브로치",
+      "description": "재물운이 오를 기회! 오늘은 충동구매를 해도 괜찮아요"
     },
     {
-      "sign": "쌍둥이자리",
-      "rank": 10,
+      "sign": "천칭자리",
+      "rank": 5,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "금색",
-      "description": "일이 바빠져서 허둥지둥… 부주의한 실수 조심해"
+      "luckyItem": "무",
+      "description": "멋진 만남에 대한 기대가 크다. 많은 사람이 모이는 곳에 행운이 따른다."
+    },
+    {
+      "sign": "물병자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "생수",
+      "description": "행운을 불러올지도 몰라요. 가족과의 교류를 추천합니다."
     },
     {
       "sign": "물고기자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "파란색",
+      "description": "주변 사람들의 호감도 UP♪ 정중한 말투가 행운의 열쇠"
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "보라색",
+      "description": "계획을 재검토해야 할 것 같다. 여유 있는 일정이 ◎"
+    },
+    {
+      "sign": "염소자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "츠케멘",
+      "description": "원하는 대로 결과가 나오지 않을 때, 포기하지 말고 계속 노력해 줘"
+    },
+    {
+      "sign": "사자자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "선글라스",
+      "description": "사랑에 방해가 생길지도 몰라… 감정에 휩쓸리지 말고 대화를 나눠 보자"
+    },
+    {
+      "sign": "양자리",
       "rank": 11,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "함박스테이크",
-      "description": "예산 초과로 지갑 사정이 빠듯해져 고가 상품 구매는 보류하기로 했다"
+      "luckyItem": "시저 샐러드",
+      "description": "라이벌이 나타나자 당황하지 말고, 당당한 태도를 유지하도록 해"
     },
     {
-      "sign": "처녀자리",
+      "sign": "쌍둥이자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "손수건",
-      "description": "눈에 띄게 될지도 몰라. 경솔한 발언에 주의하고, 당분간은 가급적 혼자 지내자."
+      "luckyItem": "우표",
+      "description": "마음이 제대로 전해지지 않는 날, 짜증을 드러내는 것은 금물입니다. 어떤 때라도 미소를 잊지 마세요."
     }
   ]
 }
