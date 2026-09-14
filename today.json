@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "rankings": [
     {
-      "sign": "양자리",
+      "sign": "처녀자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "연어 마리네이드",
-      "description": "사랑이 진전되는 걸 느끼며 두근두근♥ 적극적인 구애에 행운이 따를 거예요. 뜨거운 마음을 털어놓아 보세요."
-    },
-    {
-      "sign": "황소자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "주황색",
-      "description": "새로운 세상이 펼쳐질 것 같은 예감, 처음 해보는 일에 도전해 보세요"
-    },
-    {
-      "sign": "물병자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "찹쌀 경단 팥",
-      "description": "공격적인 자세가 긍정적으로 작용할 거야. 과감한 행동이 행운의 열쇠야."
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "카메라",
-      "description": "기대 이상의 성과를 얻었어요♪ 도전 정신을 소중히 여기자"
+      "luckyItem": "스톨",
+      "description": "금전운이 오를 기회가 찾아왔어요♪ 알뜰하게 쇼핑할 수 있을지도 몰라요. 친구와 함께 외출해 보세요."
     },
     {
       "sign": "사수자리",
-      "rank": 5,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "숄더백",
-      "description": "보람을 느낄 때, 긍정적인 사고방식이 GOOD"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "강낭콩",
-      "description": "소원이 이루어질 기회, 주변 사람들에게 어필해 보세요"
-    },
-    {
-      "sign": "사자자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "일정 수첩",
-      "description": "주변의 평가가 높아질 것 같습니다. 신속한 판단을 하도록 노력하면 좋습니다."
-    },
-    {
-      "sign": "게자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "파란색",
-      "description": "피로가 쌓여 기운이 떨어졌네요… 지금은 무리하지 말고 천천히 쉬세요."
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "소시지",
-      "description": "망설임이 생겨 마음이 답답하다면, 가족과 상의해 보는 건 어떨까요?"
+      "luckyItem": "필통",
+      "description": "멋진 조언을 얻어보세요. 잡지나 인터넷을 확인해 보세요."
     },
     {
       "sign": "전갈자리",
-      "rank": 10,
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "잡지",
-      "description": "지출이 늘어나 지갑 사정이 빠듯해졌으니, 사교 활동은 적당히 하자"
+      "luckyItem": "크림색",
+      "description": "기쁜 평가를 받을 수 있을 거예요. 자신의 뜻을 확실히 전달하면 ◎"
+    },
+    {
+      "sign": "게자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "바인더",
+      "description": "유익한 정보를 얻을 수 있을지도 몰라요. 주위를 잘 살피세요."
+    },
+    {
+      "sign": "황소자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "볶음밥",
+      "description": "행운이 따를 것 같은 예감이 들어요. 교류의 폭을 넓히면 좋겠네요."
+    },
+    {
+      "sign": "물병자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "보라색",
+      "description": "사교적인 태도가 행운을 부른다. 주변 사람들과의 대화를 즐기세요."
     },
     {
       "sign": "물고기자리",
-      "rank": 11,
+      "rank": 7,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "팥빵",
-      "description": "너무 좋은 제안에는 주의가 필요해요. 신중하게 판단할 수 있는 안목을 기르세요."
+      "luckyItem": "칸피오",
+      "description": "당신의 실력이 시험받는 순간, 재능을 최대한 발휘하여"
+    },
+    {
+      "sign": "염소자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "포스터",
+      "description": "혼자서 헛돌게 될 것 같아… 상황과 타이밍을 잘 파악하는 것이 중요해"
     },
     {
       "sign": "쌍둥이자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "빨간색",
+      "description": "모두의 기대가 부담으로 다가온다. 마음의 여유를 가지고 지내자."
+    },
+    {
+      "sign": "사자자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "노트",
+      "description": "갑작스러운 사고에 다소 당황한 모습, 신중한 태도를 유지하도록 노력해야 한다"
+    },
+    {
+      "sign": "양자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "키마 카레",
+      "description": "주변 사람들과 의견이 맞지 않아 속이 답답하겠지만, 너무 고민하지 마세요"
+    },
+    {
+      "sign": "천칭자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "말차 아이스크림",
-      "description": "동료들에게 반감을 살 수도 있으니, 발언에 각별히 주의하고, 협동심을 중요하게 여겨야 해."
+      "luckyItem": "당면",
+      "description": "주변과 단절될 것 같은 느낌이 듭니다. 어떤 상황이 닥치더라도 배려와 세심함을 잊지 마세요."
     }
   ]
 }
