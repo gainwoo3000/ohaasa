@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "rankings": [
     {
-      "sign": "처녀자리",
+      "sign": "황소자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "스톨",
-      "description": "금전운이 오를 기회가 찾아왔어요♪ 알뜰하게 쇼핑할 수 있을지도 몰라요. 친구와 함께 외출해 보세요."
+      "luckyItem": "낫토 김말이",
+      "description": "마음껏 즐길 수 있는 하루가 되길♪ 마음이 통하는 친구와 함께 즐거운 시간을 나누길 바래요"
     },
     {
-      "sign": "사수자리",
+      "sign": "처녀자리",
       "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "필통",
-      "description": "멋진 조언을 얻어보세요. 잡지나 인터넷을 확인해 보세요."
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "크림색",
-      "description": "기쁜 평가를 받을 수 있을 거예요. 자신의 뜻을 확실히 전달하면 ◎"
+      "luckyItem": "편지지",
+      "description": "하고 싶었던 일에 도전할 수 있는 날, 적극적인 자세가 행운의 열쇠"
     },
     {
       "sign": "게자리",
-      "rank": 4,
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "바인더",
-      "description": "유익한 정보를 얻을 수 있을지도 몰라요. 주위를 잘 살피세요."
-    },
-    {
-      "sign": "황소자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "볶음밥",
-      "description": "행운이 따를 것 같은 예감이 들어요. 교류의 폭을 넓히면 좋겠네요."
+      "luckyItem": "등푸른 생선",
+      "description": "기쁜 일이 일어날 것 같은 예감. 정보 수집에 힘써 보자."
     },
     {
       "sign": "물병자리",
-      "rank": 6,
+      "rank": 4,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "보라색",
-      "description": "사교적인 태도가 행운을 부른다. 주변 사람들과의 대화를 즐기세요."
+      "luckyItem": "찻잔",
+      "description": "사교 관계를 넓힐 기회. 초대받으면 수락해 줘."
     },
     {
       "sign": "물고기자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "목캔디",
+      "description": "재능을 발휘해 대활약, 과감하게 자신을 어필하세요"
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "팥색",
+      "description": "특가 상품을 찾을 수 있을 것 같아요. 쇼핑은 저녁 이후가 좋습니다."
+    },
+    {
+      "sign": "사수자리",
       "rank": 7,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "칸피오",
-      "description": "당신의 실력이 시험받는 순간, 재능을 최대한 발휘하여"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "포스터",
-      "description": "혼자서 헛돌게 될 것 같아… 상황과 타이밍을 잘 파악하는 것이 중요해"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "빨간색",
-      "description": "모두의 기대가 부담으로 다가온다. 마음의 여유를 가지고 지내자."
-    },
-    {
-      "sign": "사자자리",
-      "rank": 10,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "노트",
-      "description": "갑작스러운 사고에 다소 당황한 모습, 신중한 태도를 유지하도록 노력해야 한다"
-    },
-    {
-      "sign": "양자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "키마 카레",
-      "description": "주변 사람들과 의견이 맞지 않아 속이 답답하겠지만, 너무 고민하지 마세요"
+      "luckyItem": "흰색",
+      "description": "의외의 사람에게서 구애를 받을지도 몰라요♥ 우선은 대화를 즐겨보세요"
     },
     {
       "sign": "천칭자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "복",
+      "description": "주변 사람들에게 좋은 인상을 남길 수 있을 거야. 밝은 미소를 잊지 마."
+    },
+    {
+      "sign": "염소자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "선글라스",
+      "description": "직감을 따를 때 일이 잘 풀릴 때가 있다. 뭔가 딱 와닿으면 바로 행동에 옮기라."
+    },
+    {
+      "sign": "양자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "만년필",
+      "description": "판단력이 떨어질 것 같아… 신중하게 행동하도록 유의해야겠다"
+    },
+    {
+      "sign": "사자자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "돼지고기 소테",
+      "description": "소문에 휘둘릴 수도 있으니, 근거 없는 말은 그냥 흘려듣는 게 좋아"
+    },
+    {
+      "sign": "쌍둥이자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "당면",
-      "description": "주변과 단절될 것 같은 느낌이 듭니다. 어떤 상황이 닥치더라도 배려와 세심함을 잊지 마세요."
+      "luckyItem": "노란빛이 도는 초록색",
+      "description": "왠지 의욕이 안 생길지도 몰라. 무심코 주위에 의지하고 싶어질 것 같아. 책임감 있게 행동해야지."
     }
   ]
 }
