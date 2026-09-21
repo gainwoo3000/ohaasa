@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "rankings": [
     {
-      "sign": "황소자리",
+      "sign": "사수자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "허브",
-      "description": "사랑이 진전되는 걸 느끼며 두근두근♥ 활기차게 나아가도 좋아요. 적극적으로 어필해 보세요."
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "카레 난반",
-      "description": "행운이 잔뜩 찾아올 것 같아요. 당신의 소원도 이루어질지 몰라요."
-    },
-    {
-      "sign": "게자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "보라색",
-      "description": "인맥을 넓힐 기회, 지금까지와는 다른 유형의 상대와 교류하기"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "명란 파스타",
-      "description": "새로운 목표가 생기는 날, 관심 있는 일에 도전해 보세요"
-    },
-    {
-      "sign": "물병자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "땀 억제제",
-      "description": "기쁜 지원에 큰 기대를 걸며, 무엇이든 열심히 임하고"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "커피잔",
-      "description": "평온한 하루를 보낼 수 있을 것 같아요. 다정한 마음을 소중히 여기는 게 좋아요."
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "분홍색",
-      "description": "지금까지의 노력이 결실을 맺는 순간, 나를 지지해 준 사람들에게 감사를 전하며"
+      "luckyItem": "티슈 케이스",
+      "description": "좋은 시작이 될 것 같은 예감. 하고 싶었던 일에 도전해 보세요. 적극적인 자세가 GOOD"
     },
     {
       "sign": "천칭자리",
-      "rank": 8,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "베트남 요리",
-      "description": "새로운 세계로 뛰어들 수 있을 것 같은 예감, 취미 활동을 시작해 보는 건 어떨까요?"
+      "luckyItem": "금색",
+      "description": "마음에 드는 사람과 친해질 수 있을 것 같아♥ 친구가 힘을 실어줄 거야"
     },
     {
-      "sign": "염소자리",
-      "rank": 9,
+      "sign": "물병자리",
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "선글라스",
-      "description": "예상치 못한 문제가 발생할 수도 있으니, 무리하지 말고 동료의 도움을 받는 것이 좋습니다."
+      "luckyItem": "마카로니 그라탕",
+      "description": "성공을 끌어당기는 힘이 있어요. 자신의 신념을 굽히지 말고 지켜나가세요."
+    },
+    {
+      "sign": "황소자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "봉제인형",
+      "description": "무엇을 해도 잘 풀리는 날, ‘이거다!’라고 생각하면 바로 행동으로 옮기세요"
+    },
+    {
+      "sign": "게자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "갈색",
+      "description": "기쁜 초대가 올지도 몰라요. 단정하게 차려입으면 ◎"
     },
     {
       "sign": "사자자리",
-      "rank": 10,
+      "rank": 6,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "초록색",
-      "description": "낭비에 주의해야 하며, 큰돈은 몸에 지니고 다니지 않도록 하세요"
+      "luckyItem": "오코노미야키",
+      "description": "매력이 더욱 돋보이며 주목을 받고 있어요♪ 있는 그대로의 당신이면 충분해요"
     },
     {
       "sign": "양자리",
-      "rank": 11,
+      "rank": 7,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "복숭아 만주",
-      "description": "피로가 쌓인 것 같아… 푹 자야겠다"
+      "luckyItem": "생채소",
+      "description": "어려움을 극복할 때는 주변 사람들과의 조화를 소중히 여기도록 해"
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "짙은 녹색",
+      "description": "오해할 뻔했네요… 남의 말은 끝까지 듣도록 해야겠어요"
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "손수건",
+      "description": "라이벌에게 방해받아 속이 답답하다. 혼자 고민하지 말고 동료들에게 의지하자."
     },
     {
       "sign": "물고기자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "하늘색",
+      "description": "건강에 무리가 가지 않도록 주의하고, 생활 리듬을 재점검하세요"
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "만화",
+      "description": "약속 시간에 늦을지도 몰라요. 일정을 꼼꼼히 관리하세요."
+    },
+    {
+      "sign": "염소자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "마카로니",
-      "description": "앞으로 나아갈 길을 망설일 수도 있겠지만, 서둘러 답을 내릴 필요는 없어. 천천히 생각한 뒤에 결정을 내리자."
+      "luckyItem": "전",
+      "description": "일이 뜻대로 풀리지 않아 짜증이 나더라도 감정적으로 반응하는 건 금물이에요. 마음의 여유를 가지세요."
     }
   ]
 }
