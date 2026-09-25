@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "rankings": [
     {
-      "sign": "천칭자리",
+      "sign": "쌍둥이자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "파란색",
-      "description": "이미지 변신이 대성공♪ 청결한 느낌을 주는 스타일이 GOOD, 헤어스타일을 바꾸는 것도 추천해요"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "소면",
-      "description": "일이 뜻대로 풀릴 것 같은 예감. 직감이나 영감을 믿으면 ◎"
+      "luckyItem": "빨간색",
+      "description": "큰 성과를 거둘 것 같네요. 적극적인 태도에 행운이 따를 거예요. 알찬 하루를 보내세요."
     },
     {
       "sign": "물병자리",
+      "rank": 2,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "찻잔",
+      "description": "알뜰하게 쇼핑해서 기분 좋아♪ 여러 가게를 둘러보세요"
+    },
+    {
+      "sign": "천칭자리",
       "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "문고판",
-      "description": "평소와 다른 행동에 행운이 따른다. 처음 가보는 곳에 가보자."
-    },
-    {
-      "sign": "사수자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "사과",
-      "description": "정말 만족스러운 쇼핑을 해서 기분이 좋아요♪ 선물을 고를 거라면 바로 오늘!"
-    },
-    {
-      "sign": "사자자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "포스터",
-      "description": "꾸준히 노력하는 자세가 높이 평가받는다. 지금의 노력이 미래로 이어질 거야."
+      "luckyItem": "다이후쿠",
+      "description": "기회가 잇달아 찾아오는 날, 활기차게 보내세요"
     },
     {
       "sign": "양자리",
-      "rank": 6,
+      "rank": 4,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "수건",
-      "description": "재능을 발휘할 기회, 과감한 결단이 행운의 열쇠"
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "양말",
-      "description": "마음에 드는 상대와의 관계가 진전될 것 같아…♥ 적극적으로 다가가 보세요"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "컴퓨터",
-      "description": "좋은 변화를 일으킬 수 있을 때, 고집을 버리는 것이 핵심이다"
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "벚꽃새우",
-      "description": "돈을 빌려주거나 빌릴 때는 주의가 필요해요. 부탁을 받아도 단호하게 거절하세요."
+      "luckyItem": "약통",
+      "description": "멋진 만남이 있을 것 같아요. 마음이 잘 통하는 친구와 함께 외출하면 ◎"
     },
     {
       "sign": "황소자리",
-      "rank": 10,
+      "rank": 5,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "메밀국수",
-      "description": "연애 고민으로 마음이 답답하다면, 믿을 수 있는 친구에게 상담해 보세요"
+      "luckyItem": "짙은 녹색",
+      "description": "예상치 못한 행운에 큰 기대! 기쁜 횡재가 생길지도 몰라요"
+    },
+    {
+      "sign": "사수자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "알람 시계",
+      "description": "행동력을 발휘할 수 있을 때, 직감을 믿는 것이 좋습니다"
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "팔찌",
+      "description": "유익한 정보를 얻을 수 있을 것 같은 예감이 듭니다. 초대받으시면 꼭 참여해 주세요."
+    },
+    {
+      "sign": "사자자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "검은색",
+      "description": "새로운 아이디어가 떠오를 거야. 생각나면 바로 실행해 보자."
+    },
+    {
+      "sign": "염소자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "하야시라이스",
+      "description": "혼자서 헛돌게 될지도 몰라요. 성급한 판단을 하지 않도록 주의하세요."
     },
     {
       "sign": "전갈자리",
-      "rank": 11,
+      "rank": 10,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "펜",
-      "description": "현실에서 도망치고 싶어질지도 몰라. 눈앞의 일에 제대로 맞서야 해."
+      "luckyItem": "열쇠고리",
+      "description": "감정을 억누르다 보니 마음이 답답하다. 솔직한 마음을 말로 표현해 보는 게 좋을지도 모른다."
     },
     {
       "sign": "게자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "주황색",
+      "description": "문제가 생길 것 같으니, 조심스러운 태도를 유지하도록 해"
+    },
+    {
+      "sign": "물고기자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "오키나와 요리",
-      "description": "일하면서 실수할 것 같아. 변명하는 건 안 돼. 우선 바로 사과해."
+      "luckyItem": "향수",
+      "description": "다른 사람을 위해 너무 애쓰고 있지는 않은가? 오늘은 나만의 시간을 내서 즐길 만한 일을 찾아보자."
     }
   ]
 }
