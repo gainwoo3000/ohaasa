@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "rankings": [
     {
-      "sign": "염소자리",
+      "sign": "처녀자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "잡지",
-      "description": "일이 순조롭게 풀리는 날, 적극적으로 행동해서 좋은 흐름을 만들어 보세요."
+      "luckyItem": "감색",
+      "description": "연애 운이 좋아서 행복해요♥ 좋아하는 사람과의 관계 발전에 큰 기대를 걸어보세요. 대담한 접근에 행운이 따를 거예요."
     },
     {
-      "sign": "황소자리",
+      "sign": "염소자리",
       "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "해시드 포테이토",
-      "description": "사랑에 기쁜 소식이 있을 것 같은 예감♥ 자신감을 가지고 어필해 보세요"
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "무",
-      "description": "다들 칭찬해 줄 거야♪ 긍정적인 태도가 행운의 열쇠야"
-    },
-    {
-      "sign": "양자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "간식용 빵",
-      "description": "재능을 발휘하며 주목받는 존재, 대담한 액션이 일품"
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "실버 반지",
-      "description": "꿈을 실현하는 데 한 걸음 더 가까워질지도 몰라요. 하고 싶은 일을 주변 사람들에게 이야기해 보세요."
+      "luckyItem": "죽",
+      "description": "당신의 의견이 잘 받아들여질 것 같아. 동료들도 도와줄 거야."
     },
     {
       "sign": "전갈자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "피자",
-      "description": "유익한 정보를 얻었다. 친구들과의 수다에 행운이 따를 것 같다."
-    },
-    {
-      "sign": "게자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "봉제인형",
-      "description": "자신다움을 소중히 여기고 싶을 때는, 무리하지 말고 편안한 모습으로 지내세요."
-    },
-    {
-      "sign": "사자자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "갈색",
-      "description": "멋진 만남이 있을 것 같으니, 발걸음을 가볍게 하세요"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "낫토",
-      "description": "어색했던 상대와 화해할 수 있을지도 몰라요. 먼저 다가가면 GOOD"
-    },
-    {
-      "sign": "물병자리",
-      "rank": 10,
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
       "luckyItem": "노란색",
-      "description": "감정에 휩쓸려 짜증이 나더라도 침착하게 대처하도록 노력합시다"
+      "description": "좋은 결과를 낼 수 있을지도 몰라! 하나하나 착실히 해나가면 GOOD"
+    },
+    {
+      "sign": "게자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "사진",
+      "description": "행운이 찾아올 것 같은 예감이 들어요♪ 긍정적인 마음가짐으로 하루를 보내면 좋아요◎"
+    },
+    {
+      "sign": "물고기자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "부야베스",
+      "description": "새로운 세상이 펼쳐질 것 같네요. 관심 있는 분야에 도전해 보는 건 어떨까요?"
+    },
+    {
+      "sign": "양자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "갈색",
+      "description": "기분 좋은 쇼핑을 할 수 있을 때, 할인 행사를 확인해 보세요"
+    },
+    {
+      "sign": "황소자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "열쇠고리",
+      "description": "적극적인 자세로 운을 높여보세요. 활기차게 움직여 보세요."
     },
     {
       "sign": "사수자리",
-      "rank": 11,
+      "rank": 8,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "사진 액자",
-      "description": "너무 바빠서 좀 지친 것 같아… 내 페이스대로 해나가야지"
+      "luckyItem": "대두",
+      "description": "스트레스가 쌓여 짜증이 난다면, 우선 마음을 가라앉히고"
+    },
+    {
+      "sign": "사자자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "손수건",
+      "description": "지출이 늘어나 지갑 사정이 빠듯하다. 사교 활동은 적당히 하자."
     },
     {
       "sign": "천칭자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "생수",
+      "description": "너무 좋은 제안에는 주의가 필요하다. 신중하게 판단한 뒤 결정을 내려야 한다."
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "회색",
+      "description": "오해를 불러일으킬 수도 있으니, 말투에 평소보다 더 신경을 써야 합니다."
+    },
+    {
+      "sign": "물병자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "삶은 달걀",
-      "description": "집중력이 이어지지 않아 빈둥거리다 보면 실수가 늘어날지도 몰라. 마음을 다잡고 지내자."
+      "luckyItem": "샤브샤브",
+      "description": "좋은 의도로 한 일이 역효과를 낼 것 같아. 주위에 폐를 끼치지 않도록 오늘은 조심스러운 태도를 보이도록 해."
     }
   ]
 }
