@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "rankings": [
     {
-      "sign": "처녀자리",
+      "sign": "염소자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "감색",
-      "description": "연애 운이 좋아서 행복해요♥ 좋아하는 사람과의 관계 발전에 큰 기대를 걸어보세요. 대담한 접근에 행운이 따를 거예요."
+      "luckyItem": "알람 시계",
+      "description": "일이 뜻대로 풀릴 거예요! 직감을 따라 행동해 보세요. 당당한 태도가 행운의 열쇠입니다."
     },
     {
-      "sign": "염소자리",
+      "sign": "처녀자리",
       "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "죽",
-      "description": "당신의 의견이 잘 받아들여질 것 같아. 동료들도 도와줄 거야."
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "노란색",
-      "description": "좋은 결과를 낼 수 있을지도 몰라! 하나하나 착실히 해나가면 GOOD"
-    },
-    {
-      "sign": "게자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "사진",
-      "description": "행운이 찾아올 것 같은 예감이 들어요♪ 긍정적인 마음가짐으로 하루를 보내면 좋아요◎"
+      "luckyItem": "마파두부",
+      "description": "기쁜 뜻밖의 일이 일어날지 모른다는 기대가 크다. 사람들이 많이 모이는 곳에 가보는 것도 좋을 것 같다."
     },
     {
       "sign": "물고기자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "부야베스",
-      "description": "새로운 세상이 펼쳐질 것 같네요. 관심 있는 분야에 도전해 보는 건 어떨까요?"
-    },
-    {
-      "sign": "양자리",
-      "rank": 6,
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
       "luckyItem": "갈색",
-      "description": "기분 좋은 쇼핑을 할 수 있을 때, 할인 행사를 확인해 보세요"
+      "description": "알뜰하게 쇼핑할 수 있을 것 같은 예감이 든다. 가전제품 매장에 한번 가보자."
     },
     {
-      "sign": "황소자리",
-      "rank": 7,
+      "sign": "전갈자리",
+      "rank": 4,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "열쇠고리",
-      "description": "적극적인 자세로 운을 높여보세요. 활기차게 움직여 보세요."
+      "luckyItem": "약통",
+      "description": "목표를 달성할 기회, 집중력을 발휘해 봐!"
     },
     {
-      "sign": "사수자리",
-      "rank": 8,
+      "sign": "양자리",
+      "rank": 5,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "대두",
-      "description": "스트레스가 쌓여 짜증이 난다면, 우선 마음을 가라앉히고"
+      "luckyItem": "DVD",
+      "description": "원만한 인간관계를 맺을 수 있을지도 모른다. 서로 돕는 정신을 소중히 여기자."
+    },
+    {
+      "sign": "게자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "돈가스",
+      "description": "편안하게 쉬면 운이 올라간다. 일상을 잊고 느긋하게 지내자."
     },
     {
       "sign": "사자자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "초록색",
+      "description": "도전 정신이 왕성하고 목표 의식을 확고히 갖는 것이 좋습니다◎"
+    },
+    {
+      "sign": "황소자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "사냥고기 요리",
+      "description": "좋은 인연을 만날지도 몰라♪ 친구의 소개를 통해 행운이 따를 것 같아"
+    },
+    {
+      "sign": "사수자리",
       "rank": 9,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "손수건",
-      "description": "지출이 늘어나 지갑 사정이 빠듯하다. 사교 활동은 적당히 하자."
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 10,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "생수",
-      "description": "너무 좋은 제안에는 주의가 필요하다. 신중하게 판단한 뒤 결정을 내려야 한다."
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "회색",
-      "description": "오해를 불러일으킬 수도 있으니, 말투에 평소보다 더 신경을 써야 합니다."
+      "luckyItem": "가죽 구두",
+      "description": "꿈에 젖어 버리기 쉬운 때, 현실에 더 눈을 돌려야 한다"
     },
     {
       "sign": "물병자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "브로치",
+      "description": "피로가 쌓인 것 같아… 여유롭게 쉴 시간을 만들어야겠다"
+    },
+    {
+      "sign": "천칭자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "쿠시카츠",
+      "description": "불만을 느끼고 짜증이 나며, 자기중심적으로 변하는 것은 금물이다"
+    },
+    {
+      "sign": "쌍둥이자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "샤브샤브",
-      "description": "좋은 의도로 한 일이 역효과를 낼 것 같아. 주위에 폐를 끼치지 않도록 오늘은 조심스러운 태도를 보이도록 해."
+      "luckyItem": "아이스크림",
+      "description": "주변 사람들의 반감을 사기 쉬운 날. 이기적인 태도를 조심하고, 상대방의 입장에서 생각해 봐."
     }
   ]
 }
