@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "rankings": [
     {
-      "sign": "전갈자리",
-      "rank": 1,
-      "period": "(10/24〜11/22)",
-      "luckyColor": "하늘색",
-      "luckyItem": "도장 수첩",
-      "description": "가슴 설레는 멋진 만남이 기다리고 있습니다. 지금 가장 핫한 지역이 유력한 후보입니다. 평소보다 좀 더 멋을 내고 나가보면 좋을 것 같습니다."
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 2,
-      "period": "(2/19〜3/20)",
-      "luckyColor": "파랑",
-      "luckyItem": "시집",
-      "description": "찾고 있던 것을 찾을 수 있을 것 같다. 모두에게 미리 말해 두는 것이 핵심이다. 비즈니스에서는 실력을 발휘해 경쟁자보다 한 발 앞서 나가라."
-    },
-    {
       "sign": "처녀자리",
-      "rank": 3,
-      "period": "(8/23〜9/22)",
-      "luckyColor": "흰색",
-      "luckyItem": "일정 관리 앱",
-      "description": "소개를 부탁했던 지인에게서 연락이 왔다. 우선 만나서 이야기를 나눠보라고 한다. 체력 단련에는 기구를 이용한 운동을 추천한다."
+      "rank": 1,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "닭튀김",
+      "description": "주변에 긍정적인 영향을 줄 수 있을 것 같아. 주저하지 말고 적극적으로 나서면 동료들의 평가도 높아질 거야."
+    },
+    {
+      "sign": "염소자리",
+      "rank": 2,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "열쇠고리",
+      "description": "복권 운이 좋아 당첨될 가능성이 높은 때, 경품 행사에 응모해 보는 건 어떨까요?"
     },
     {
       "sign": "게자리",
-      "rank": 4,
-      "period": "(6/22〜7/22)",
-      "luckyColor": "주황색",
-      "luckyItem": "기간 한정 상품",
-      "description": "업무에는 적극적인 자세로 임하세요. 그 의지가 결실을 맺어 성공을 거둘 수 있을 것이라는 징조입니다. 쇼핑은 막 오픈한 가게에서 행운이 따를 것입니다."
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "목캔디",
+      "description": "보람을 느끼는 일이…! 긍정적인 태도가 GOOD"
     },
     {
       "sign": "쌍둥이자리",
-      "rank": 5,
-      "period": "(5/21〜6/21)",
-      "luckyColor": "노란색",
-      "luckyItem": "강연회",
-      "description": "복권 운이 좋다. 조금 비싼 물건을 살 수 있을 정도의 금액이 당첨될 것 같다. 이상한 욕심을 부리지 않는 것이 당첨되는 비결이다."
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "하늘색",
+      "description": "레벨 업을 노려볼 만하다. 사고방식의 전환에 행운이 따를 것이다."
     },
     {
-      "sign": "황소자리",
+      "sign": "물고기자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "메밀국수",
+      "description": "큰 전환점이 찾아올지도 몰라요. 새로운 일에 도전해 보세요."
+    },
+    {
+      "sign": "전갈자리",
       "rank": 6,
-      "period": "(4/20〜5/20)",
-      "luckyColor": "베이지",
-      "luckyItem": "에코백",
-      "description": "무엇이든 털어놓을 수 있는 친구와 기분 전환도 겸해 외출을 했다. 재미있는 경험을 하며 알찬 하루를 보냈다. 옷차림은 활동성을 중시했다."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "숄더백",
+      "description": "모두에게 칭찬받아서 기뻐요♪ 적절히 강약을 조절한 대답이 ◎"
     },
     {
       "sign": "사자자리",
       "rank": 7,
-      "period": "(7/23〜8/22)",
-      "luckyColor": "네이비",
-      "luckyItem": "GPS",
-      "description": "돌봐주는 성격이 상대방의 마음을 사로잡을 것 같다. 전혀 예상치 못했던 초대도 있을지도 모른다. 패션은 발끝까지 완벽하게 신경 써서."
-    },
-    {
-      "sign": "물병자리",
-      "rank": 8,
-      "period": "(1/20〜2/18)",
-      "luckyColor": "실버",
-      "luckyItem": "유람선",
-      "description": "이상을 너무 높게 세우다 보니 사방이 막혀버렸다. 어느 정도 타협이 필요할지도 모른다. 반면 쇼핑에서는 원하는 물건을 저렴하게 구입했다."
-    },
-    {
-      "sign": "사수자리",
-      "rank": 9,
-      "period": "(11/23〜12/21)",
-      "luckyColor": "빨강",
-      "luckyItem": "마스코트",
-      "description": "달콤한 말을 속삭이는 사람은 각별히 주의해야 한다. 함부로 마음을 열면 스스로를 상처 입힐 위험이 크다. 행동은 신중하게 하라."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "호르몬",
+      "description": "새로운 인간관계를 맺을 수 있는 날, 보람찬 시간을 보낼 수 있을 거야"
     },
     {
       "sign": "양자리",
-      "rank": 10,
-      "period": "(3/21〜4/19)",
-      "luckyColor": "갈색",
-      "luckyItem": "차량용 블랙박스",
-      "description": "파트너에 대한 불만이 터질 지경입니다. 이대로 가면 싸움이 날 것 같아요. 사정을 잘 아는 친구에게 상담하니 속이 후련하게 해결되었습니다."
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "파란색",
+      "description": "게으름 피우고 싶은 마음이 커질 것 같으니, 지금 할 수 있는 일은 서둘러 끝내자"
     },
     {
-      "sign": "염소자리",
-      "rank": 11,
-      "period": "(12/22〜1/19)",
-      "luckyColor": "보라색",
-      "luckyItem": "공항",
-      "description": "어느 쪽을 선택할지 망설여지는 상황이 자주 생길 것 같습니다. 좀처럼 결정을 내리지 못한다면, 미루는 편이 좋다는 신호입니다. 날짜를 다시 정하는 것이 현명합니다."
+      "sign": "황소자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "헤어 브러시",
+      "description": "주변 사람들을 곤란하게 만들 수도 있으니, 제멋대로인 행동은 금물입니다."
+    },
+    {
+      "sign": "사수자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "가츠동",
+      "description": "실수로 인해 문제가 발생했다면, 우선 바로 사과해 주세요."
     },
     {
       "sign": "천칭자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "덤벨",
+      "description": "사랑의 기회를 놓치고 후회하지 않으려면 우유부단한 태도는 그만두자"
+    },
+    {
+      "sign": "물병자리",
       "rank": 12,
-      "period": "(9/23〜10/23)",
-      "luckyColor": "분홍색",
-      "luckyItem": "골동품",
-      "description": "잠깐의 망설임이 성공을 놓치는 원인이 됩니다. 기회가 찾아왔을 때, 주저해서는 안 됩니다. 즉시 행동에 나서세요."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "분홍색",
+      "description": "책임 있는 자리가 주는 압박감, 침착하게 대처하면 괜찮아요. 이를 극복한 뒤에는 행운이 기다리고 있습니다!"
     }
   ]
 }
