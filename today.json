@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "rankings": [
     {
-      "sign": "처녀자리",
+      "sign": "염소자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "치킨라이스",
-      "description": "재물운이 올라가서 행복해지세요♪ 즐거운 쇼핑을 할 수 있을지도 몰라요. 세일 정보를 확인해 보세요."
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "회색",
-      "description": "강력한 지원을 받을 수 있는 날, 도전하고 싶은 일에 매진해 보세요"
-    },
-    {
-      "sign": "사자자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "카드 지갑",
-      "description": "레벨업할 수 있을 것 같은 예감이 들어. 그동안의 노력이 결실을 맺을 거야."
-    },
-    {
-      "sign": "양자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "해산물 카레",
-      "description": "주변의 신뢰를 얻어라! 실력을 뽐내 보자"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "향수",
-      "description": "원활한 의사소통, 밝은 미소가 행운의 열쇠"
-    },
-    {
-      "sign": "게자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "완탕",
-      "description": "운이 따르기 쉬운 시기, 행복은 모두와 나누면 ◎"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "노란빛이 도는 초록색",
-      "description": "바빠져서 허둥지둥할 것 같네요. 어떤 상황에서도 침착하게 대처합시다."
+      "luckyItem": "티슈 케이스",
+      "description": "네 소원이 이루어질지도 몰라. 해보고 싶었던 일에 도전해 봐. 친구들도 응원해 줄 거야."
     },
     {
       "sign": "물고기자리",
-      "rank": 8,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "스마트폰",
-      "description": "곤란한 상황이 될지도 몰라… 가까운 지인에게 상담하는 게 좋아요"
+      "luckyItem": "금색",
+      "description": "기회가 잇달아 찾아올 때, 행운의 주인공은 옛 친구다"
     },
     {
-      "sign": "염소자리",
-      "rank": 9,
+      "sign": "전갈자리",
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "나폴리탄",
-      "description": "돈에 대한 감각이 흐트러지지 않았나요? 쇼핑은 자제하도록 합시다."
+      "luckyItem": "오리 난반",
+      "description": "좋은 시작을 할 수 있을 것 같은 예감, 신속한 행동에 행운이 따를 것"
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "봉제인형",
+      "description": "연애 운이 좋아서 행복해요♥ 좋아하는 사람과의 거리가 좁혀질 것 같아요"
+    },
+    {
+      "sign": "사자자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "배낭",
+      "description": "기쁜 초대를 받은 날, 단정하게 차려입으면 GOOD"
+    },
+    {
+      "sign": "양자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "마카로니",
+      "description": "알찬 하루를 보낼 수 있을 거야. 소통을 소중히 여기자."
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "열쇠고리",
+      "description": "주변의 관심도 UP! 무리하지 않고 자연스러운 모습이 최고◎"
     },
     {
       "sign": "황소자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "커피잔",
+      "description": "멋진 조언을 얻었어요♪ 자신을 되돌아보는 계기가 될 거예요"
+    },
+    {
+      "sign": "게자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "짙은 녹색",
+      "description": "오해로 인해 문제가 발생했다. 상대방의 말은 끝까지 경청하도록 하자."
+    },
+    {
+      "sign": "사수자리",
       "rank": 10,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "사진 액자",
-      "description": "주변의 기대가 부담으로 느껴진다면, 무리라고 생각되면 거절하는 것도 중요합니다"
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "초록색",
-      "description": "문제가 생길 것 같다. 감정을 잘 조절해야겠다."
+      "luckyItem": "군청색",
+      "description": "누군가 발목을 잡을지도 모르겠지만, 친구와 힘을 합치면 극복할 수 있을 것 같다"
     },
     {
       "sign": "물병자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "명란 파스타",
+      "description": "일정 관리를 소홀히 하지 말고, 약속 시간은 꼭 지켜주세요."
+    },
+    {
+      "sign": "천칭자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "지갑",
-      "description": "지금까지 쌓아온 대가가 돌아올지도 모른다. 솔직하게 반성하고, 겸손한 자세로 운을 반전시키자."
+      "luckyItem": "조림 요리",
+      "description": "일이 뜻대로 풀리지 않아 짜증이 난다. 오늘은 너무 돌아다니지 말고 신중하게 행동하도록 노력하겠다."
     }
   ]
 }
