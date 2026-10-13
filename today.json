@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "rankings": [
     {
-      "sign": "천칭자리",
+      "sign": "염소자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "연어 마리네",
-      "description": "연애 운이 최고조라 행복해요♥ 좋은 만남이 있을 것 같아요. 활동 범위를 넓혀 보세요."
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "강낭콩",
-      "description": "예기치 못한 행운이 찾아오는 날, 당신의 소원도 이루어질지 몰라요"
-    },
-    {
-      "sign": "사자자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "만화",
-      "description": "뭐든지 수월하게 해낼 수 있어. 계획적으로 움직이면 GOOD"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "소시지",
-      "description": "목표 달성을 향해 크게 전진하고 있어. 가족들이 든든한 힘이 되어 줄 거야."
-    },
-    {
-      "sign": "양자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "보라색",
-      "description": "잠자고 있던 재능이 꽃을 피우다! 주저하지 말고 자신을 어필하세요"
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "말차 아이스크림",
-      "description": "즐거운 시간을 보낼 수 있을 것 같아♪ 처음 가는 곳이라 운이 따를 것 같아"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "초록색",
-      "description": "주변의 평가가 높아질지도 모른다. 꾸준히 노력하는 모습이 좋은 인상을 준다."
+      "luckyItem": "바인더",
+      "description": "행복한 하루가 될 것 같은 예감이 들어요. 기쁜 소식을 들을 수도 있을 거예요. 가족에게 연락해 보세요."
     },
     {
       "sign": "물고기자리",
-      "rank": 8,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "참깨 경단",
-      "description": "무턱대고 수락하는 것은 주의해야 하며, 내용은 꼼꼼히 확인해야 합니다."
+      "luckyItem": "치즈",
+      "description": "설레는 만남에 두근두근, 활발하게 움직이면 ◎"
     },
     {
-      "sign": "물병자리",
-      "rank": 9,
+      "sign": "천칭자리",
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "빨간색",
-      "description": "지출이 늘어나 지갑 사정이 빠듯하다. 스트레스 해소를 위한 쇼핑은 자제하자."
+      "luckyItem": "계산기",
+      "description": "보물 같은 물건을 대발견♪ 온라인 쇼핑에 주목해 보세요"
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "샤오롱바오",
+      "description": "사랑에 적극적으로 나설 수 있을 것 같아요♥ 먼저 다가가 보세요"
+    },
+    {
+      "sign": "사자자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "사진",
+      "description": "무엇이든 솜씨 좋게 해낼 때 주변의 평가도 높아져요"
+    },
+    {
+      "sign": "양자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "흰색",
+      "description": "재물운이 오를 기회, 덤으로 들어오는 수입도 기대해 볼 만하다!"
     },
     {
       "sign": "처녀자리",
-      "rank": 10,
+      "rank": 7,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "팥빵",
-      "description": "마음이 느슨해질 때는 정해진 규칙을 꼭 지켜줘"
+      "luckyItem": "자전거",
+      "description": "새로운 일에 도전할 수 있는 날, 좋은 시작을 할 수 있을 거야"
     },
     {
       "sign": "황소자리",
-      "rank": 11,
+      "rank": 8,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "봉제인형",
-      "description": "일이 바빠져서 허둥지둥… 부주의한 실수를 하지 않도록"
+      "luckyItem": "달걀",
+      "description": "약속 시간에 늦을지도 몰라요. 일정을 꼼꼼히 관리하세요."
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "분홍색",
+      "description": "마음이 전해지지 않아 실망스럽네요… 정성스럽게 설명하도록 노력합시다"
     },
     {
       "sign": "게자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "낫토 김말이",
+      "description": "집중력이 흐트러지기 쉬워 실수가 늘어날 수도 있습니다"
+    },
+    {
+      "sign": "사수자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "지갑",
+      "description": "알고 있는 척하는 것에 주의해야 한다. 겸손한 자세를 잊지 말자."
+    },
+    {
+      "sign": "물병자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "파란색",
-      "description": "나쁜 소문이 돌 수도 있으니, 평소 언행을 되돌아보고 마음에 걸리는 점을 다시 점검해 보자."
+      "luckyItem": "크림색",
+      "description": "사랑과 우정 사이에서 고민하게 될 것 같아. 우유부단한 태도는 금물. 자신의 감정에 솔직해져 봐."
     }
   ]
 }
