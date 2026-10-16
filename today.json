@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "rankings": [
     {
-      "sign": "쌍둥이자리",
+      "sign": "천칭자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "문어",
-      "description": "새로운 발견에 두근두근♪ 활발하게 지내면 좋아요. 활동 범위를 넓혀 봅시다."
+      "luckyItem": "불고기",
+      "description": "꿈을 이룰 수 있을 것 같은 예감이 들어. 마음 가는 대로 움직이면 자연스럽게 길이 열릴 거야."
     },
     {
-      "sign": "천칭자리",
+      "sign": "쌍둥이자리",
       "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "갈색",
-      "description": "유용한 정보를 얻을 수 있을지도 몰라요. 잡지나 인터넷을 확인해 보세요."
-    },
-    {
-      "sign": "사수자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "자전거",
-      "description": "당신의 평가가 쑥 올라갑니다! 의견을 확실히 전달하면 ◎"
-    },
-    {
-      "sign": "양자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "토마토",
-      "description": "상상 이상의 성과를 거둘 수 있을 것 같다. 직감을 믿고 행동해 보자."
+      "luckyItem": "파란색",
+      "description": "행운이 가득 찾아오는 날, 별다른 계획이 없더라도 외출해 보세요"
     },
     {
       "sign": "사자자리",
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "잡지",
+      "description": "초보자의 행운이 따를 때, 정보 수집에 힘쓰면 ◎"
+    },
+    {
+      "sign": "사수자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "찻잔",
+      "description": "사랑이 진전되는 것을 느끼며 두근두근♥ 적극적인 행동에 행운이 따를 거예요"
+    },
+    {
+      "sign": "양자리",
       "rank": 5,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "신간 도서",
-      "description": "연애 운이 상승해 인기 만점♥ 마음에 드는 사람에게 고백받을지도 몰라요"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "샤브샤브",
-      "description": "자기 계발에 안성맞춤인 날, 새로운 패션에 도전해 보세요"
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "보라색",
-      "description": "사교적인 태도를 보이면 행운이 따른다. 모두와 대화를 즐기길 바란다."
-    },
-    {
-      "sign": "황소자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "포스터",
-      "description": "쇼핑에서 실수할 수도 있으니 고가 상품 구매는 보류하세요"
+      "luckyItem": "풋콩",
+      "description": "알찬 시간을 보낼 수 있을 거야. 친구들과 함께 나가자."
     },
     {
       "sign": "게자리",
-      "rank": 9,
+      "rank": 6,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "전갱이",
-      "description": "부담감을 주는 일이 생겼는데… 마음의 여유를 가지고 임해 보세요."
+      "luckyItem": "아이스크림",
+      "description": "지금까지의 노력이 결실을 맺을 것 같네요. 다음 목표를 세워보는 건 어떨까요?"
     },
     {
-      "sign": "처녀자리",
-      "rank": 10,
+      "sign": "염소자리",
+      "rank": 7,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "일정 수첩",
-      "description": "상대의 단점만 눈에 띄는 때는 상대의 장점을 찾아보자"
+      "luckyItem": "브로치",
+      "description": "큰 난관을 극복할 수 있을지도 모른다. 과감하게 한 걸음 내딛어 보자."
     },
     {
       "sign": "물병자리",
-      "rank": 11,
+      "rank": 8,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "시시토 고추",
-      "description": "현실에서 도망치고 싶어질지도 몰라. 지금 해야 할 일에 집중하자."
+      "luckyItem": "떡",
+      "description": "충동구매에 주의하고, 정말 필요한 물건인지 잘 생각해 보자"
+    },
+    {
+      "sign": "물고기자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "멘치카츠",
+      "description": "개인 플레이에 치우치는 것은 금물, 동료와의 협동심을 소중히 여겨야 한다"
+    },
+    {
+      "sign": "황소자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "브로콜리",
+      "description": "판단력이 떨어질 것 같아. 주위의 의견에 휩쓸리지 말고"
     },
     {
       "sign": "전갈자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "사진 액자",
+      "description": "소문에 휘둘릴 수도 있으니, 직접 눈으로 확실히 확인해 보세요"
+    },
+    {
+      "sign": "처녀자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "선글라스",
-      "description": "주변과 단절될 것 같더라도, 어떤 상황에 처하더라도 배려하는 마음을 잊지 말아 줘"
+      "luckyItem": "계산기",
+      "description": "게을러서 운이 떨어진다… 모든 일을 남에게 떠넘기는 것은 금물. 책임감을 가지고 임해야 한다."
     }
   ]
 }
