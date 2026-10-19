@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "rankings": [
     {
-      "sign": "황소자리",
-      "rank": 1,
-      "period": "(4/20〜5/20)",
-      "luckyColor": "주황색",
-      "luckyItem": "줄무늬 무늬",
-      "description": "외국 이름이 붙은 곳에서 멋진 만남이 있을 것 같은 예감이 듭니다. 전체적인 코디를 완성하고 외출해 보세요. 식사는 향토 요리를 즐겨보세요."
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 2,
-      "period": "(8/23〜9/22)",
-      "luckyColor": "빨강",
-      "luckyItem": "편지 세트",
-      "description": "레저나 친목 모임 등 즐거운 일정이 잡히기 쉬운 시기입니다. 참여하면 잊지 못할 소중한 시간이 될 것입니다. 사랑이 시작될 가능성도 있습니다."
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 3,
-      "period": "(10/24〜11/22)",
-      "luckyColor": "갈색",
-      "luckyItem": "문화제",
-      "description": "작업은 순조롭게 마무리될 것 같다. 주변에서 좋은 평가를 받아 의욕도 높아진다. 신제품 디저트로 잠시 휴식을 취하자."
-    },
-    {
-      "sign": "염소자리",
-      "rank": 4,
-      "period": "(12/22〜1/19)",
-      "luckyColor": "분홍색",
-      "luckyItem": "헤드폰",
-      "description": "선물 운과 경품 운이 좋습니다. “이게 갖고 싶다”고 생각하면 자연스럽게 손에 들어옵니다. 건강 유지를 위해서는 유산소 운동을 습관화하면 좋습니다."
-    },
-    {
       "sign": "물고기자리",
-      "rank": 5,
-      "period": "(2/19〜3/20)",
-      "luckyColor": "흰색",
-      "luckyItem": "원예",
-      "description": "예기치 못한 연애의 계기를 만들어 줄 사람을 만날 것 같습니다. 운명적인 만남을 소중히 여기세요. 소개를 통해 좋은 인연을 맺을 수도 있을 것 같습니다."
+      "rank": 1,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "간과 부추 볶음",
+      "description": "재능을 마음껏 발휘하며 대활약! 주변의 평가도 높아질 전망. 과감한 행동이 GOOD"
     },
     {
       "sign": "사수자리",
-      "rank": 6,
-      "period": "(11/23〜12/21)",
-      "luckyColor": "초록",
-      "luckyItem": "노트북",
-      "description": "소중한 사람과 행복한 시간을 보낼 수 있습니다. 평소 말하지 못했던 감사의 마음을 전하면 좋습니다. 데이트는 실내 활동을 추천합니다."
-    },
-    {
-      "sign": "물병자리",
-      "rank": 7,
-      "period": "(1/20〜2/18)",
-      "luckyColor": "노란색",
-      "luckyItem": "플라네타리움",
-      "description": "업무 준비 과정에서 실수할 것 같다. 부주의한 실수가 원인이다. 행동에 나서기 전에 체크리스트를 작성하고, 빠진 부분이 없는지 매번 확인하자."
-    },
-    {
-      "sign": "사자자리",
-      "rank": 8,
-      "period": "(7/23〜8/22)",
-      "luckyColor": "하늘색",
-      "luckyItem": "DIY",
-      "description": "건강에 관심이 많아지기 쉽습니다. 하지만 지나치게 신경 쓰면 몸에 해로울 수 있으니, 과하지 않도록 적절히 조절하세요."
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 9,
-      "period": "(5/21〜6/21)",
-      "luckyColor": "네이비",
-      "luckyItem": "직접 만든 도시락",
-      "description": "돈을 함부로 쓰기 쉽습니다. 마음에 드는 물건은 모두 갖고 싶어질 것 같습니다. 목적 없는 쇼핑은 자제하는 편이 좋습니다."
-    },
-    {
-      "sign": "게자리",
-      "rank": 10,
-      "period": "(6/22〜7/22)",
-      "luckyColor": "베이지",
-      "luckyItem": "수입 잡화",
-      "description": "파트너의 구속이 더 심해질 것 같습니다. 답답함을 느낀다면 억지로 참지 않아도 괜찮습니다. 자신의 생각을 분명히 전달해 주세요."
-    },
-    {
-      "sign": "양자리",
-      "rank": 11,
-      "period": "(3/21〜4/19)",
-      "luckyColor": "실버",
-      "luckyItem": "별 모티브",
-      "description": "과로로 인한 건강 이상에 주의하세요. 예고 없이 갑자기 악화될 수도 있습니다. 오후에는 일정을 줄이고, 우선 휴식을 취하는 것이 중요합니다."
+      "rank": 2,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "만화",
+      "description": "자극을 받아 의욕이 솟아오른다♪ 동료들과의 협업에 행운이 따른다"
     },
     {
       "sign": "천칭자리",
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "해산물 카레",
+      "description": "알찬 하루가 될 거야. 다른 사람들과 적극적으로 어울려 봐."
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "커피잔",
+      "description": "일이 크게 진전되는 날. 계획을 세워 행동하면 ◎"
+    },
+    {
+      "sign": "사자자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "지갑",
+      "description": "지금까지의 노력이 인정받을 것 같아. 모두에게 칭찬받으니 정말 행복해!"
+    },
+    {
+      "sign": "양자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "빨간색",
+      "description": "인맥을 넓힐 기회, 초대받으면 수락하세요"
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "향토 요리",
+      "description": "편안하게 시간을 보낼 수 있어. 친구들과 수다를 떠는 걸 추천해."
+    },
+    {
+      "sign": "염소자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "필통",
+      "description": "혼자서 무턱대고 달려가서 후회했다. 잘 생각한 뒤에 행동해야 한다."
+    },
+    {
+      "sign": "황소자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "오징어",
+      "description": "망설임이 많고 우유부단하니, 큰 결정은 삼가도록 해"
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "파란색",
+      "description": "상대방이 오해할 수도 있으니, 마음은 솔직하게 표현하자"
+    },
+    {
+      "sign": "게자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "사진 액자",
+      "description": "예기치 못한 일이 생겨 허둥지둥… 오늘은 가능한 한 조용히 지내야겠다"
+    },
+    {
+      "sign": "물병자리",
       "rank": 12,
-      "period": "(9/23〜10/23)",
-      "luckyColor": "회색",
-      "luckyItem": "찻주전자",
-      "description": "다툼에 주의하세요. 점차 격해져서 돌이킬 수 없는 사태로 번질 수 있습니다. 서로 침착한 마음을 가지고 진지하게 대화를 나누세요."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "손수건",
+      "description": "부주의한 모습을 들킬 수도 있으니, 긴장감을 가지고 지내도록 하고, 외모 관리에도 신경 써 줘"
     }
   ]
 }
