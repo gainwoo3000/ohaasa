@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "rankings": [
     {
-      "sign": "물병자리",
+      "sign": "천칭자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "츠케멘",
-      "description": "큰 행운이 찾아올지도 모릅니다. 직감을 믿는 것이 좋습니다. 주변의 지원도 크게 기대해 볼 만합니다."
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "짙은 갈색",
-      "description": "원활한 의사소통, 밝은 미소가 행운의 열쇠"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "잡지",
-      "description": "멋진 만남을 크게 기대하고 있어요. 해외와 관련된 곳에서 인연이 생길 거예요."
-    },
-    {
-      "sign": "사수자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "파인애플",
-      "description": "재물운이 조금씩 상승할 때, 계획적인 지출을 유의하면 좋습니다."
-    },
-    {
-      "sign": "사자자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "티슈 케이스",
-      "description": "사교 활동이 활발해지는 날이니, 많은 사람에게 말을 걸어 보세요."
-    },
-    {
-      "sign": "양자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "초록색",
-      "description": "지금까지의 노력이 결실을 맺을 거야. 다음 목표를 세워 봐."
-    },
-    {
-      "sign": "게자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "덤벨",
-      "description": "재미있는 경험을 할 수 있을지도 몰라요. 친구와의 대화에서 힌트를 얻을 수 있을지도…!"
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "분홍색",
-      "description": "수상한 권유에 주의하고, 평소보다 더 신중하게 행동해 주세요"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "메밀밥",
-      "description": "눈에 띄게 될 것 같으니, 겸손한 태도를 잊지 마세요"
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 10,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "편지 세트",
-      "description": "문제가 발생할 것 같은 예감이 든다. 확인 작업을 꼼꼼히 해야 한다."
-    },
-    {
-      "sign": "황소자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "타코야키",
-      "description": "판단 실수에 주의해야 한다. 윗사람에게 조언을 구하자."
+      "luckyItem": "노란빛이 도는 초록색",
+      "description": "좋은 만남이 있을 것 같다. 스스로 적극적으로 나서라. 행운의 상대는 연상이다."
     },
     {
       "sign": "물고기자리",
+      "rank": 2,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "보라색",
+      "description": "당신의 아이디어가 인정받을 거예요. 오랫동안 구상해 온 기획을 발표해 보세요."
+    },
+    {
+      "sign": "염소자리",
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "볶음밥",
+      "description": "원하던 것을 얻을 수 있을 것 같은 예감. 주변 사람들에게 미리 알리는 것이 좋습니다."
+    },
+    {
+      "sign": "사자자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "적자색",
+      "description": "인생관이 크게 바뀔지도 모른다. 경험해 보지 못한 분야에 도전해 보자."
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "당면",
+      "description": "가까운 사람과 사이가 더 깊어질 것 같네요. 소소한 선물을 준비해 보는 게 어떨까요?"
+    },
+    {
+      "sign": "사수자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "커피잔",
+      "description": "모두의 시선이 쏠리는 날! 실력을 마음껏 발휘해 봐"
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "레버",
+      "description": "성공을 향한 첫걸음을 내딛을 수 있을 때, 친구들의 지원이 있을지도 모른다"
+    },
+    {
+      "sign": "황소자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "컴퓨터",
+      "description": "노력이 결실을 맺어 행복해♪ 도와준 사람들에게 감사해"
+    },
+    {
+      "sign": "물병자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "닭가슴살",
+      "description": "부주의한 실수에 주의해야 한다. 순서를 정한 뒤 하나씩 처리해 보자."
+    },
+    {
+      "sign": "게자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "분홍색",
+      "description": "지출이 늘어나 지갑 사정이 빠듯해졌으니, 불필요한 쇼핑은 자제하도록 하자"
+    },
+    {
+      "sign": "양자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "자전거",
+      "description": "욕심을 부리면 운세가 떨어진다… 주변에 너무 많은 것을 바라는 것은 금물이다"
+    },
+    {
+      "sign": "전갈자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "감색",
-      "description": "일이 생각대로 풀리지 않아 실망스럽다면, 혼자서 모든 것을 떠안는 것은 금물입니다. 동료들의 도움을 받아보는 건 어떨까요?"
+      "luckyItem": "채소 주스",
+      "description": "이상과 현실의 차이에 실망스럽지만, 지금은 인내심이 필요한 때일지도 모릅니다. 긍정적인 태도를 잊지 마세요."
     }
   ]
 }
