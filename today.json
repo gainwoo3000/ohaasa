@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "rankings": [
     {
-      "sign": "천칭자리",
+      "sign": "황소자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "열쇠고리",
-      "description": "새로운 지식을 얻을 수 있어. 무심코 나누는 대화 속에 힌트가 숨어 있어. 지금까지와는 다른 유형의 사람들과 교류해 보자."
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "치라시즈시",
-      "description": "재능을 마음껏 발휘하며 대활약! 자신이 잘하는 것을 어필해 보자"
-    },
-    {
-      "sign": "물병자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "두부",
-      "description": "자기 계발에 안성맞춤인 날, 목표를 세워보는 건 어떨까요?"
+      "luckyItem": "자전거",
+      "description": "대인 관계가 원만해서 행복해♪ 화려한 곳에 나가 보면 즐거운 하루가 될 거야"
     },
     {
       "sign": "사수자리",
+      "rank": 2,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "하늘색",
+      "description": "포기했던 일에 다시 도전해 보자. 전력을 다해 맞서 보자."
+    },
+    {
+      "sign": "천칭자리",
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "대두",
+      "description": "모두에게 인기 있는 사람이 될 수 있는 날, 말투에 신경 쓰면 GOOD"
+    },
+    {
+      "sign": "쌍둥이자리",
       "rank": 4,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "계란 요리",
-      "description": "행복한 하루가 될 거예요♪ 윗사람과 함께 시간을 보내면 좋을지도 몰라요"
+      "luckyItem": "감색",
+      "description": "상사나 선배로부터의 평가 상승! 독창성을 중시하면 ◎"
     },
     {
-      "sign": "사자자리",
+      "sign": "물병자리",
       "rank": 5,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "주황색",
-      "description": "알뜰하게 쇼핑할 수 있을 것 같은 예감이 들어요. 친구와 함께 나가볼까요?"
+      "luckyItem": "오뎅",
+      "description": "멋진 만남이 있을 것 같은 예감이 들어요♥ 초대받으면 망설임 없이 OK 할게요"
     },
     {
-      "sign": "양자리",
+      "sign": "사자자리",
       "rank": 6,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "골동품",
-      "description": "사랑의 기회가 찾아올지도 몰라요♥ 솔직함을 소중히 여긴다면 ◎"
-    },
-    {
-      "sign": "게자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "라자냐",
-      "description": "일이 순조롭게 진행될 것 같다. 꼼꼼한 준비가 행운의 열쇠다."
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "잡지",
-      "description": "일이 많아져서 허둥지둥… 마음을 다잡고 잘 헤쳐 나가야지"
-    },
-    {
-      "sign": "황소자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "숄더백",
-      "description": "대인관계 문제에 주의하고, 정중한 의사소통을 중요시하십시오"
+      "luckyItem": "보라색",
+      "description": "동료들의 협력을 얻을 수 있을 것 같다. 감사의 마음을 잊지 말자."
     },
     {
       "sign": "염소자리",
-      "rank": 10,
+      "rank": 7,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "파에야",
-      "description": "마음이 조급해질 때는 이것저것 욕심 내지 말고"
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "분홍색",
-      "description": "이기적인 사람으로 보일 것 같으니, 주변 사람들과의 조화를 잊지 말자"
+      "luckyItem": "부야베스",
+      "description": "오랫동안 갖고 싶었던 물건을 손에 넣었다. 누군가 양도해 줄지도 모른다."
     },
     {
       "sign": "물고기자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "리조또",
+      "description": "당신의 마음이 잘 전달될 때, 직설적인 표현을 추천합니다"
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "지도책",
+      "description": "주변 사람들에게 좋은 인상을 남길 수 있어. 겸손한 태도가 행운의 열쇠야."
+    },
+    {
+      "sign": "게자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "빨간색",
+      "description": "갑작스러운 일정 변경에 허둥지둥… 당황하지 말고 침착하게 대처하세요"
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "붓펜",
+      "description": "안 좋은 소문이 돌 수도 있으니 평소 행동을 되돌아보는 건 어떨까요?"
+    },
+    {
+      "sign": "양자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "초록색",
-      "description": "예기치 못한 문제가 발생할 수도 있으니, 피하지 말고 정면으로 마주하며 조기에 대처합시다."
+      "luckyItem": "시시토 고추",
+      "description": "기회를 놓칠 것 같아. 어떤 일이든 정중하게 대처하도록 노력하고, 끝까지 긴장을 늦추지 말고 힘내렴."
     }
   ]
 }
