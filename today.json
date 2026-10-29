@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "rankings": [
     {
-      "sign": "전갈자리",
+      "sign": "천칭자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "덤벨",
-      "description": "당신의 소원이 이루어질지도 몰라요. 하고 싶은 일이 있다면 주변 사람들에게 어필해 보세요."
-    },
-    {
-      "sign": "사자자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "지갑",
-      "description": "행운이 찾아올 것 같은 예감. 적극적으로 외출하면 GOOD"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "회색",
-      "description": "매력이 한층 더 높아져 인기 만점♥ 로맨틱한 분위기를 만끽하세요"
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "향수",
-      "description": "새로운 길을 개척할 때, 사고방식의 전환에 행운이 따른다"
-    },
-    {
-      "sign": "황소자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "바인더",
-      "description": "알뜰하게 쇼핑할 수 있는 날, 가전제품 매장에 가보는 건 어떨까요?"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "빨간색",
-      "description": "동료들의 지원에 큰 기대를 걸고 있습니다. 곤란한 일이 있으면 상담해 주세요."
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "필통",
-      "description": "유익한 정보를 얻어보세요♪ 주변의 대화에 귀를 기울여 보세요"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "마리네",
-      "description": "문제를 미연에 방지할 수 있어요. 침착한 대처가 행운의 열쇠입니다."
+      "luckyItem": "감색",
+      "description": "잠들어 있던 재능이 깨어날 것 같은 예감! 잘하지 못했던 분야에도 도전해 보세요. 적극적으로 움직이면 GOOD"
     },
     {
       "sign": "물병자리",
-      "rank": 9,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "짙은 녹색",
-      "description": "결단을 내려야 할 상황이 생길 것 같다. 이상을 좇기보다 현실적인 선택을 하라."
+      "luckyItem": "주먹밥",
+      "description": "일이 뜻대로 풀려서 행복해♪ 친구들도 도와줄 거야"
+    },
+    {
+      "sign": "사수자리",
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "셔벗",
+      "description": "짝사랑에 진전이 생겼어요♥ 좋아하는 사람이 먼저 말을 걸어올지도 몰라요"
     },
     {
       "sign": "양자리",
-      "rank": 10,
+      "rank": 4,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "하늘색",
-      "description": "너무 바빠서 좀 지친 것 같아… 무리하지 말고 잠시 쉬자"
+      "luckyItem": "사진",
+      "description": "새로운 목표를 찾을지도 몰라요. 친구와의 대화에서 힌트가…!"
     },
     {
-      "sign": "게자리",
-      "rank": 11,
+      "sign": "염소자리",
+      "rank": 5,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "절임",
-      "description": "연애 운이 주춤할 수도 있다. 지금은 현상 유지를 해도 괜찮다."
+      "luckyItem": "갈색",
+      "description": "창의적인 감각이 꽃피고 있어요. 주저하지 말고 마음껏 어필해 보세요."
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "배추",
+      "description": "문제 해결의 실마리를 발견, 서로 양보하는 자세가 행운의 열쇠"
+    },
+    {
+      "sign": "사자자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "치즈 퐁듀",
+      "description": "미래에 대해 생각해 보고 싶은 날, 자신의 감정에 솔직해지면 ◎"
+    },
+    {
+      "sign": "황소자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "립밤",
+      "description": "주변 사람들과 의견이 엇갈릴 때, 지나친 자기주장은 금물이다"
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "손수건",
+      "description": "망설임이 많고 우유부단하지만, 결론을 서두르지 않아도 괜찮아"
     },
     {
       "sign": "물고기자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "고기만두",
+      "description": "너무 좋은 제안에는 주의하고, 내용을 꼼꼼히 확인하세요"
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "회색",
+      "description": "오해를 불러일으킬 수도 있으니 발언에 각별히 주의해 주세요"
+    },
+    {
+      "sign": "게자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "스키야키",
-      "description": "대인관계에서 문제가 생길 것 같다. 불만을 털어놓고 싶어도 참아내고, 감정에 휩쓸리지 않도록 하라."
+      "luckyItem": "꼬치구이",
+      "description": "좋은 의도로 한 일이 역효과를 낼 것 같아. 주위 사람들에게 폐를 끼칠 것 같으니, 참견은 적당히 해줘."
     }
   ]
 }
