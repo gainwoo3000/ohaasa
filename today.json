@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "rankings": [
     {
-      "sign": "천칭자리",
+      "sign": "물병자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "감색",
-      "description": "잠들어 있던 재능이 깨어날 것 같은 예감! 잘하지 못했던 분야에도 도전해 보세요. 적극적으로 움직이면 GOOD"
+      "luckyItem": "분홍색",
+      "description": "마음에 드는 사람의 마음을 사로잡을 수 있을 것 같아♥ 대담한 행동에 행운이 따를 거야. 솔직한 마음을 말로 전해 줘"
     },
     {
-      "sign": "물병자리",
+      "sign": "천칭자리",
       "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "주먹밥",
-      "description": "일이 뜻대로 풀려서 행복해♪ 친구들도 도와줄 거야"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "셔벗",
-      "description": "짝사랑에 진전이 생겼어요♥ 좋아하는 사람이 먼저 말을 걸어올지도 몰라요"
-    },
-    {
-      "sign": "양자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "사진",
-      "description": "새로운 목표를 찾을지도 몰라요. 친구와의 대화에서 힌트가…!"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "갈색",
-      "description": "창의적인 감각이 꽃피고 있어요. 주저하지 말고 마음껏 어필해 보세요."
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "배추",
-      "description": "문제 해결의 실마리를 발견, 서로 양보하는 자세가 행운의 열쇠"
+      "luckyItem": "간과 부추 볶음",
+      "description": "일이 쑥쑥 진척되는 날, 할 수 있는 한 일을 미리 해두자"
     },
     {
       "sign": "사자자리",
-      "rank": 7,
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "치즈 퐁듀",
-      "description": "미래에 대해 생각해 보고 싶은 날, 자신의 감정에 솔직해지면 ◎"
+      "luckyItem": "포스터",
+      "description": "하고 싶었던 일을 시작할 기회야. 친구들도 응원해 줄 거야."
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "수건",
+      "description": "좋은 만남이 있을 것 같은 예감이 들어요. 유행하는 명소에 가보면 ◎"
     },
     {
       "sign": "황소자리",
-      "rank": 8,
+      "rank": 5,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "립밤",
-      "description": "주변 사람들과 의견이 엇갈릴 때, 지나친 자기주장은 금물이다"
+      "luckyItem": "함박스테이크",
+      "description": "상사로부터의 평가 상승, 상황에 따른 유연한 대응이 행운의 열쇠"
+    },
+    {
+      "sign": "사수자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "노란빛이 도는 초록색",
+      "description": "예상치 못한 덤 수입에 기대가 크다! 의뢰는 기꺼이 수락하자"
+    },
+    {
+      "sign": "양자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "오징어",
+      "description": "행운을 불러올 수 있어♪ 마음의 여유를 가지면 GOOD"
     },
     {
       "sign": "처녀자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "봉제인형",
+      "description": "마음이 편안한 순간에는 작은 행복을 찾아보는 것도 좋을 것 같아요"
+    },
+    {
+      "sign": "염소자리",
       "rank": 9,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "손수건",
-      "description": "망설임이 많고 우유부단하지만, 결론을 서두르지 않아도 괜찮아"
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 10,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "고기만두",
-      "description": "너무 좋은 제안에는 주의하고, 내용을 꼼꼼히 확인하세요"
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "회색",
-      "description": "오해를 불러일으킬 수도 있으니 발언에 각별히 주의해 주세요"
+      "luckyItem": "딤섬",
+      "description": "돈을 너무 많이 써서 지갑 사정이 빠듯하다면, 통신비를 다시 한번 점검해 보는 건 어떨까요?"
     },
     {
       "sign": "게자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "카드 지갑",
+      "description": "의욕이 나지 않아 실수를 연발… 하나씩 꼼꼼하게 처리하도록"
+    },
+    {
+      "sign": "물고기자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "새우 만두",
+      "description": "제멋대로인 사람으로 보일 것 같다. 감정적으로 반응하는 건 금물이다."
+    },
+    {
+      "sign": "전갈자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "꼬치구이",
-      "description": "좋은 의도로 한 일이 역효과를 낼 것 같아. 주위 사람들에게 폐를 끼칠 것 같으니, 참견은 적당히 해줘."
+      "luckyItem": "펜",
+      "description": "예기치 못한 사고에 휘말릴 수도 있으니, 오늘은 평소보다 더 신중한 태도를 유지하도록 노력하세요."
     }
   ]
 }
