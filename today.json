@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "rankings": [
     {
-      "sign": "천칭자리",
+      "sign": "게자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "블루 치즈",
-      "description": "당신의 평판이 급상승♪ 모두의 주목을 받을 것 같아. 가지고 있는 지식이 도움이 될 거야."
-    },
-    {
-      "sign": "물병자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "열쇠고리",
-      "description": "기쁜 만남이 있을지도 몰라요. 먼저 다가가 보세요."
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "고구마",
-      "description": "실력을 발휘할 수 있을 것 같은 예감, 긍정적인 태도가 GOOD"
-    },
-    {
-      "sign": "양자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "흰색",
-      "description": "문제를 현명하게 피하세요! 동료들과 힘을 합쳐 해결해 나가세요"
-    },
-    {
-      "sign": "사자자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "숄더백",
-      "description": "꿈을 향해 한 걸음 전진, 절제 있는 행동이 ◎"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "필통",
-      "description": "심신을 재충전할 수 있는 날, 마음이 잘 맞는 친구와 함께 시간을 보내면 좋을 것 같아요"
-    },
-    {
-      "sign": "게자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "나폴리탄",
-      "description": "게을러질 것 같아. 일을 미루지 마."
-    },
-    {
-      "sign": "황소자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "스톱워치",
-      "description": "분실물에 주의해야 합니다. 귀중품 관리는 철저히 하세요."
-    },
-    {
-      "sign": "염소자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "분홍색",
-      "description": "고민이 생길지도 몰라요. 차분히 마주할 시간을 마련해 보세요."
+      "luckyItem": "태국 요리",
+      "description": "당신의 매력이 빛날 것 같은 예감♥ 기쁜 초대가 올지도 몰라요. 모임에는 적극적으로 참여하세요."
     },
     {
       "sign": "처녀자리",
-      "rank": 10,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "잡지",
-      "description": "라이벌의 등장에 당황하지 말고, 서두르지 말고 침착하게 대처하자"
+      "luckyItem": "마스크",
+      "description": "복권 운이 좋아 당첨될 가능성이 높은 때, 직감을 믿고 골라보자"
+    },
+    {
+      "sign": "황소자리",
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "노란색",
+      "description": "새로운 일에 도전할 기회. 주변 사람들이 든든한 버팀목이 되어 줄 거야."
+    },
+    {
+      "sign": "사수자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "크림색",
+      "description": "즐거운 시간을 보낼 수 있을 것 같네요. 옛 친구에게 연락해 보는 건 어떨까요?"
+    },
+    {
+      "sign": "천칭자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "오곡밥",
+      "description": "의욕이 솟아나서 의욕이 넘친다! 밀려 있던 일을 처리하고"
+    },
+    {
+      "sign": "물병자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "문고판",
+      "description": "동료들의 신뢰를 얻어보세요♪ 실력을 마음껏 발휘해 보세요"
+    },
+    {
+      "sign": "염소자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "파란색",
+      "description": "사랑에 방해가 생겨 짜증이 난다면, 친구에게 상담해 보는 것도 좋을 것 같다"
     },
     {
       "sign": "전갈자리",
-      "rank": 11,
+      "rank": 8,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "덤벨",
-      "description": "주변 사람들에게 너무 의존하고 있지는 않은가? 모든 일을 남에게 맡기는 것은 금물이다"
+      "luckyItem": "포스터",
+      "description": "과소비에 주의하자. 정말 필요한 것만 사자."
     },
     {
       "sign": "물고기자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "초무침",
+      "description": "그 자리의 분위기에 휩쓸려 후회하게 되니, 확고한 의지를 갖는 것이 중요하다"
+    },
+    {
+      "sign": "사자자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "선글라스",
+      "description": "힘이 부족하다고 느껴질 수도 있지만, 지금은 현상 유지를 해도 괜찮습니다."
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "해산물 스파게티",
+      "description": "마음이 답답해질 것 같으니, 몸을 움직여 기분을 전환해 보세요."
+    },
+    {
+      "sign": "양자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "분홍색",
-      "description": "책임 있는 자리가 주는 압박감… 우선 눈앞의 일부터 차근차근 해나가면 괜찮을 거예요"
+      "luckyItem": "빨간색",
+      "description": "주변의 평가가 떨어지고 있다. 모든 일을 남에게 떠넘기고 있지는 않은가? 가능한 한 스스로 해결해 나가자."
     }
   ]
 }
