@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "rankings": [
     {
-      "sign": "게자리",
+      "sign": "천칭자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "태국 요리",
-      "description": "당신의 매력이 빛날 것 같은 예감♥ 기쁜 초대가 올지도 몰라요. 모임에는 적극적으로 참여하세요."
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "마스크",
-      "description": "복권 운이 좋아 당첨될 가능성이 높은 때, 직감을 믿고 골라보자"
+      "luckyItem": "차슈",
+      "description": "네 소원이 이루어질 때, 가족들이 든든히 뒷받침해 줄 거야. 오늘은 마음껏 의지해도 괜찮아."
     },
     {
       "sign": "황소자리",
-      "rank": 3,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "노란색",
-      "description": "새로운 일에 도전할 기회. 주변 사람들이 든든한 버팀목이 되어 줄 거야."
+      "luckyItem": "잡지",
+      "description": "새로운 사랑이 시작될지도 몰라♥ 친구의 소개가 행운을 가져다줄 거예요"
     },
     {
       "sign": "사수자리",
-      "rank": 4,
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "크림색",
-      "description": "즐거운 시간을 보낼 수 있을 것 같네요. 옛 친구에게 연락해 보는 건 어떨까요?"
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "오곡밥",
-      "description": "의욕이 솟아나서 의욕이 넘친다! 밀려 있던 일을 처리하고"
-    },
-    {
-      "sign": "물병자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "문고판",
-      "description": "동료들의 신뢰를 얻어보세요♪ 실력을 마음껏 발휘해 보세요"
+      "luckyItem": "찻잔",
+      "description": "노력이 인정받아 기쁘다! 당당한 태도가 ◎"
     },
     {
       "sign": "염소자리",
-      "rank": 7,
+      "rank": 4,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "파란색",
-      "description": "사랑에 방해가 생겨 짜증이 난다면, 친구에게 상담해 보는 것도 좋을 것 같다"
+      "luckyItem": "감자",
+      "description": "알뜰하게 쇼핑할 수 있는 날, 활동 범위를 넓히면 GOOD"
     },
     {
-      "sign": "전갈자리",
-      "rank": 8,
+      "sign": "게자리",
+      "rank": 5,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "포스터",
-      "description": "과소비에 주의하자. 정말 필요한 것만 사자."
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "초무침",
-      "description": "그 자리의 분위기에 휩쓸려 후회하게 되니, 확고한 의지를 갖는 것이 중요하다"
-    },
-    {
-      "sign": "사자자리",
-      "rank": 10,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "선글라스",
-      "description": "힘이 부족하다고 느껴질 수도 있지만, 지금은 현상 유지를 해도 괜찮습니다."
+      "luckyItem": "구미",
+      "description": "도전 정신이 싹트고 활기차게, 그 기세를 타고 나아가자"
     },
     {
       "sign": "쌍둥이자리",
-      "rank": 11,
+      "rank": 6,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "해산물 스파게티",
-      "description": "마음이 답답해질 것 같으니, 몸을 움직여 기분을 전환해 보세요."
+      "luckyItem": "진공청소기",
+      "description": "일이 순조롭게 진행될 거야. 리더십을 발휘해 봐."
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "검은색",
+      "description": "호기심이 솟구치고 두근두근♪ 처음 가보는 곳으로 나들이를 떠나보는 건 어떨까요?"
+    },
+    {
+      "sign": "물병자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "파인애플",
+      "description": "지출이 늘어나서 지갑 사정이 빠듯해졌으니, 앞으로의 계획을 제대로 세워야 해"
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "배낭",
+      "description": "안 좋은 소문이 돌 수도 있겠지만, 신경 쓰지 말고 평소처럼 지내자"
     },
     {
       "sign": "양자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "계산기",
+      "description": "주변 사람들의 말과 행동에 짜증이 난다면… 상대방의 입장에서 생각해 보세요"
+    },
+    {
+      "sign": "물고기자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "무",
+      "description": "감정에 휩쓸리지 않도록 주의하고, 어떤 상황에서도 침착하게 대처하십시오."
+    },
+    {
+      "sign": "사자자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "빨간색",
-      "description": "주변의 평가가 떨어지고 있다. 모든 일을 남에게 떠넘기고 있지는 않은가? 가능한 한 스스로 해결해 나가자."
+      "luckyItem": "니트 모자",
+      "description": "생각대로 되지 않아 실망스럽고, 스트레스가 쌓일 수도 있습니다. 주위 사람들에게 화풀이하는 것은 금물입니다."
     }
   ]
 }
