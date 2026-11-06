@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "rankings": [
     {
-      "sign": "천칭자리",
+      "sign": "물병자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "차슈",
-      "description": "네 소원이 이루어질 때, 가족들이 든든히 뒷받침해 줄 거야. 오늘은 마음껏 의지해도 괜찮아."
-    },
-    {
-      "sign": "황소자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "잡지",
-      "description": "새로운 사랑이 시작될지도 몰라♥ 친구의 소개가 행운을 가져다줄 거예요"
+      "luckyItem": "파란색",
+      "description": "행운이 가득한 하루가 되길♪ 활기차게 보내세요. 긍정적인 태도가 GOOD"
     },
     {
       "sign": "사수자리",
-      "rank": 3,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "찻잔",
-      "description": "노력이 인정받아 기쁘다! 당당한 태도가 ◎"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "감자",
-      "description": "알뜰하게 쇼핑할 수 있는 날, 활동 범위를 넓히면 GOOD"
+      "luckyItem": "사진",
+      "description": "연애 운이 상승해 최상의 컨디션♥ 마음에 드는 사람과 가까워질 수도 있어요"
     },
     {
       "sign": "게자리",
-      "rank": 5,
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "구미",
-      "description": "도전 정신이 싹트고 활기차게, 그 기세를 타고 나아가자"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "진공청소기",
-      "description": "일이 순조롭게 진행될 거야. 리더십을 발휘해 봐."
+      "luckyItem": "아크릴 스탠드",
+      "description": "큰 기회가 찾아올 거야. ‘이거다!’라고 생각하면 바로 행동으로 옮겨라."
     },
     {
       "sign": "처녀자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "미트로프",
+      "description": "기쁜 초대에 기대가 크다. 옷차림을 단정히 하는 게 좋을지도 모르겠다."
+    },
+    {
+      "sign": "황소자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "감자튀김",
+      "description": "의욕이 솟아나는 날, 일은 일찍 끝내자"
+    },
+    {
+      "sign": "천칭자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "열쇠고리",
+      "description": "좋은 조언을 해줄 수 있을지도 몰라. 친구의 고민을 들어줘."
+    },
+    {
+      "sign": "쌍둥이자리",
       "rank": 7,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "검은색",
-      "description": "호기심이 솟구치고 두근두근♪ 처음 가보는 곳으로 나들이를 떠나보는 건 어떨까요?"
-    },
-    {
-      "sign": "물병자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "파인애플",
-      "description": "지출이 늘어나서 지갑 사정이 빠듯해졌으니, 앞으로의 계획을 제대로 세워야 해"
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "배낭",
-      "description": "안 좋은 소문이 돌 수도 있겠지만, 신경 쓰지 말고 평소처럼 지내자"
-    },
-    {
-      "sign": "양자리",
-      "rank": 10,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "계산기",
-      "description": "주변 사람들의 말과 행동에 짜증이 난다면… 상대방의 입장에서 생각해 보세요"
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "무",
-      "description": "감정에 휩쓸리지 않도록 주의하고, 어떤 상황에서도 침착하게 대처하십시오."
+      "luckyItem": "커피잔",
+      "description": "멈춰 있던 일이 다시 움직이기 시작할 것 같은 예감. 동료들과 협력하여 임하면 ◎"
     },
     {
       "sign": "사자자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "리조또",
+      "description": "당신의 마음이 전해질 때는 전화로 대화하는 것을 추천합니다"
+    },
+    {
+      "sign": "양자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "오리 요리",
+      "description": "환경 변화에 다소 당황해하는 것 같네요. 서두르지 말고 침착하게 대처하세요."
+    },
+    {
+      "sign": "염소자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "손수건",
+      "description": "망설임이 생겨서 마음이 답답해. 네 자신의 뜻을 소중히 여기렴."
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "일본 전통 과자",
+      "description": "약속 시간에 늦을 것 같아… 일정 관리는 꼼꼼히 해야지"
+    },
+    {
+      "sign": "물고기자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "니트 모자",
-      "description": "생각대로 되지 않아 실망스럽고, 스트레스가 쌓일 수도 있습니다. 주위 사람들에게 화풀이하는 것은 금물입니다."
+      "luckyItem": "생수",
+      "description": "이것저것 너무 많이 생각하게 될지도 몰라. 오늘은 무리하지 말고, 지금 상태만 유지해도 괜찮아."
     }
   ]
 }
