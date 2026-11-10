@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "rankings": [
     {
-      "sign": "전갈자리",
+      "sign": "게자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "크림색",
-      "description": "예상치 못한 기회가 찾아오는 날, 자신 있는 분야에서 실력을 발휘해 보자. 동료들의 평가도 높아질 거야."
-    },
-    {
-      "sign": "게자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "레버",
-      "description": "경쟁에서 강해질 것 같다. 직감을 믿으면 ◎"
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "빨간색",
-      "description": "유익한 정보를 얻었어요♪ 주변 소식을 잘 파악해 두세요"
-    },
-    {
-      "sign": "황소자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "츠쿠네",
-      "description": "좋은 출발을 할 수 있을 때, 하고 싶었던 일에 도전해 보자"
-    },
-    {
-      "sign": "물병자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "찻잔",
-      "description": "아이디어가 채택될지도 모르니 적극적으로 어필해 보자"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "채소 주스",
-      "description": "사랑이 진전되는 게 느껴져서 두근두근♥ 대담한 액션이 GOOD"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "카파마키",
-      "description": "새로운 세상이 펼쳐질 거예요. 취미 활동을 시작해 보는 건 어떨까요?"
+      "luckyItem": "계란 요리",
+      "description": "기대 이상의 결과를 얻을 수도 있어요. 오늘은 직감을 따라보세요. 과감한 행동이 GOOD!"
     },
     {
       "sign": "물고기자리",
-      "rank": 8,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "주황색",
-      "description": "멋진 만남에 대한 기대가 크다. 친구의 소개를 통해 행운이 따를 것 같다."
+      "luckyItem": "파란색",
+      "description": "일이 뜻대로 풀릴 때, 협조심을 염두에 두면 잘 풀릴 거야"
     },
     {
-      "sign": "천칭자리",
-      "rank": 9,
+      "sign": "전갈자리",
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "고기만두",
-      "description": "우유부단한 태도를 조심하고, 의사를 분명히 표현하세요"
+      "luckyItem": "오시즈시",
+      "description": "가까운 사람에게 고백받을지도 몰라♥ 부끄러워하지 말고 진심으로 마주해 보세요"
     },
     {
-      "sign": "쌍둥이자리",
-      "rank": 10,
+      "sign": "염소자리",
+      "rank": 4,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "라디오",
-      "description": "건강 관리가 소홀해졌네요… 수면 시간을 다시 점검해 보는 게 좋을지도 모르겠네요"
+      "luckyItem": "달력",
+      "description": "고민이 해결되어 속이 후련해! 가족들이 든든한 버팀목이 되어 줄 거야"
+    },
+    {
+      "sign": "황소자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "보라색",
+      "description": "잠들어 있던 재능이 꽃을 피웠어요♪ 이 기회를 최대한 활용해서"
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "포스터",
+      "description": "즐거운 시간을 보낼 수 있을 거야. 처음 가는 곳에는 행운이 따른다."
+    },
+    {
+      "sign": "물병자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "편지지",
+      "description": "에너지가 넘쳐날 것 같아요. 주변 사람들과 적극적으로 교류하면 좋습니다."
     },
     {
       "sign": "사자자리",
-      "rank": 11,
+      "rank": 8,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "볶음밥",
-      "description": "예산 초과로 지갑 사정이 빠듯해졌으니, 계획적인 지출을 하도록 노력합시다."
+      "luckyItem": "훠궈",
+      "description": "새로운 친구가 생길지도 몰라요. 활동 범위를 넓혀 보세요."
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "분홍색",
+      "description": "지출이 늘어날 것 같은 예감, 스트레스 해소를 위한 쇼핑은 금물"
+    },
+    {
+      "sign": "천칭자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "봉제인형",
+      "description": "문제가 발생해 허둥지둥하지만, 확인 작업은 꼼꼼히"
     },
     {
       "sign": "양자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "펜",
+      "description": "감정에 휩쓸려 평가가 떨어졌다. 한 번쯤 자신을 되돌아보자."
+    },
+    {
+      "sign": "사수자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "생수",
-      "description": "생각대로 풀리지 않아 짜증이 나더라도 주위 사람들에게 화풀이하는 건 금물이에요. 마음의 여유를 가지고 지내세요."
+      "luckyItem": "하늘색",
+      "description": "연애 운이 떨어질 것 같아… 이것저것 너무 많이 생각하게 될지도 몰라. 조금 더 여유를 갖고 지내렴."
     }
   ]
 }
