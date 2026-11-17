@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "rankings": [
     {
-      "sign": "염소자리",
+      "sign": "게자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "배낭",
-      "description": "알찬 하루가 될 것 같네요. 취미 활동에 몰두해 보는 것도 좋을 것 같아요. 나만의 시간을 즐겨보세요."
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "돼지고기 조림",
-      "description": "나를 잘 이해해 주는 사람을 만날 때, 감사의 마음을 말로 전하세요"
-    },
-    {
-      "sign": "게자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "문고판",
-      "description": "일이 쓱쓱 처리돼요. 자기 페이스대로 해나가는 게 좋아요."
+      "luckyItem": "봉제인형",
+      "description": "일이 뜻대로 풀려요♪ ‘이거다!’ 싶으면 바로 행동하세요. 적극적인 자세에 행운이 따릅니다."
     },
     {
       "sign": "황소자리",
-      "rank": 4,
+      "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "낫토",
-      "description": "당신의 소원이 이루어질지도 몰라요. 주변 사람들에게 어필해 보는 건 어떨까요?"
+      "luckyItem": "기름소바",
+      "description": "주목받으며 활약할 수 있을 것 같다. 대담한 행동이 행운의 열쇠다."
     },
     {
-      "sign": "물병자리",
-      "rank": 5,
+      "sign": "염소자리",
+      "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "펜",
-      "description": "사교적인 태도가 행운을 부른다. 많은 사람과 대화를 나누자."
+      "luckyItem": "노란색",
+      "description": "새로운 친구를 사귈 수 있을지도 몰라. 처음 가보는 곳에 가보자."
     },
     {
       "sign": "처녀자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "편지 세트",
+      "description": "실력을 발휘할 기회, 주저하지 말고 자신을 어필하세요"
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "초밥",
+      "description": "하고 싶었던 일에 도전할 수 있는 날, 용기를 내어 한 걸음 내딛자"
+    },
+    {
+      "sign": "천칭자리",
       "rank": 6,
       "period": "",
       "luckyColor": "-",
       "luckyItem": "보라색",
-      "description": "연애 운이 좋아서 행복해요♥ 가슴 설레는 만남이 있을지도 몰라요"
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "커피잔",
-      "description": "행동력을 발휘할 수 있는 날, 신속한 대응이 행운의 열쇠"
+      "description": "유익한 정보를 얻자! 주변 사람들의 이야기에 귀를 기울여 보자"
     },
     {
       "sign": "쌍둥이자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "파인애플",
+      "description": "오해를 불러일으킬 것 같으니 말투에 주의해 줘"
+    },
+    {
+      "sign": "물병자리",
       "rank": 8,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "베트남 요리",
-      "description": "좋아하는 사람과 급속도로 가까워질 기회, 당당한 자세에 행운이 따른다"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "만년필",
-      "description": "오랜 친구와의 인연이 다시 이어질 것 같은 예감. 서로의 근황을 나누며"
+      "luckyItem": "흰색",
+      "description": "스트레스를 쌓아두고 있지는 않나요? 기분을 전환할 방법을 찾아보세요."
     },
     {
       "sign": "사자자리",
-      "rank": 10,
+      "rank": 9,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "초록색",
-      "description": "누군가를 상처 입힐 수도 있으니, 말할 때 각별히 주의해 줘"
+      "luckyItem": "오르골",
+      "description": "눈에 띄지 않도록 주의하고, 동료들과 어울리도록 노력하자"
     },
     {
       "sign": "양자리",
-      "rank": 11,
+      "rank": 10,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "포",
-      "description": "쇼핑에서 실수하지 않도록 주의하고, 고가의 물건 구매는 보류하세요"
+      "luckyItem": "배낭",
+      "description": "번거로운 문제가 생길지도 몰라… 무슨 일이든 남에게만 맡기지 않도록 하자"
     },
     {
       "sign": "물고기자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "소금 라멘",
+      "description": "충동구매로 지갑 사정이 빠듯해졌다. 정말 필요한 물건인지 잘 생각해 봐야 한다."
+    },
+    {
+      "sign": "사수자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "우동",
-      "description": "골치 아픈 일을 맡게 되어 허둥지둥하지만, 지금이 버텨야 할 때라고 생각하며 끈기 있게 임하자"
+      "luckyItem": "빨간색",
+      "description": "자기중심적으로 굴면 운이 떨어진다. 감정적으로 불만을 표출하는 것은 금물이다. 성실한 태도를 보이도록 노력해라."
     }
   ]
 }
