@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "rankings": [
     {
-      "sign": "게자리",
+      "sign": "염소자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "봉제인형",
-      "description": "일이 뜻대로 풀려요♪ ‘이거다!’ 싶으면 바로 행동하세요. 적극적인 자세에 행운이 따릅니다."
-    },
-    {
-      "sign": "황소자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "기름소바",
-      "description": "주목받으며 활약할 수 있을 것 같다. 대담한 행동이 행운의 열쇠다."
-    },
-    {
-      "sign": "염소자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "노란색",
-      "description": "새로운 친구를 사귈 수 있을지도 몰라. 처음 가보는 곳에 가보자."
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "편지 세트",
-      "description": "실력을 발휘할 기회, 주저하지 말고 자신을 어필하세요"
+      "luckyItem": "만화",
+      "description": "의욕이 점점 솟아나는 날, 동료들에게서 자극을 받을 것 같다. 좋은 결과를 얻을 수도 있다."
     },
     {
       "sign": "전갈자리",
+      "rank": 2,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "자루소바",
+      "description": "한 단계 도약할 기회가 찾아왔다. 적극적인 자세가 GOOD"
+    },
+    {
+      "sign": "게자리",
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "갈색",
+      "description": "성공을 불러올 것 같은 예감. 꼼꼼하게 계획을 세우면 ◎"
+    },
+    {
+      "sign": "황소자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "지갑",
+      "description": "오랫동안 준비해 온 기획안이 승인될 때, 전력을 다해 어필해 보세요"
+    },
+    {
+      "sign": "처녀자리",
       "rank": 5,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "초밥",
-      "description": "하고 싶었던 일에 도전할 수 있는 날, 용기를 내어 한 걸음 내딛자"
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 6,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "보라색",
-      "description": "유익한 정보를 얻자! 주변 사람들의 이야기에 귀를 기울여 보자"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "파인애플",
-      "description": "오해를 불러일으킬 것 같으니 말투에 주의해 줘"
+      "luckyItem": "오키나와 요리",
+      "description": "유익한 조언을 얻다. 행운의 주인공은 윗사람"
     },
     {
       "sign": "물병자리",
+      "rank": 6,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "노란빛이 도는 초록색",
+      "description": "마음 편히 보낼 수 있는 하루♪ 마음이 잘 통하는 친구와 함께 지내자"
+    },
+    {
+      "sign": "천칭자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "사과",
+      "description": "혼자서 무턱대고 달려가서 후회했다. 잘 생각한 뒤에 행동해야 한다."
+    },
+    {
+      "sign": "쌍둥이자리",
       "rank": 8,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "흰색",
-      "description": "스트레스를 쌓아두고 있지는 않나요? 기분을 전환할 방법을 찾아보세요."
-    },
-    {
-      "sign": "사자자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "오르골",
-      "description": "눈에 띄지 않도록 주의하고, 동료들과 어울리도록 노력하자"
-    },
-    {
-      "sign": "양자리",
-      "rank": 10,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "배낭",
-      "description": "번거로운 문제가 생길지도 몰라… 무슨 일이든 남에게만 맡기지 않도록 하자"
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "소금 라멘",
-      "description": "충동구매로 지갑 사정이 빠듯해졌다. 정말 필요한 물건인지 잘 생각해 봐야 한다."
+      "luckyItem": "차가운 중화면",
+      "description": "판단력이 떨어질 것 같아… 주위의 의견에 휩쓸리지 말고"
     },
     {
       "sign": "사수자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "반지",
+      "description": "분실물에 주의해야 합니다! 소지품 확인은 꼼꼼히 하세요"
+    },
+    {
+      "sign": "사자자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "사진 액자",
+      "description": "주변 사람들의 지적에 기분이 상할 수도 있겠지만, 긍정적으로 받아들여 줘"
+    },
+    {
+      "sign": "양자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "하늘색",
+      "description": "대인관계 문제 발생, 신중한 행동을 유의하도록 하십시오"
+    },
+    {
+      "sign": "물고기자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "빨간색",
-      "description": "자기중심적으로 굴면 운이 떨어진다. 감정적으로 불만을 표출하는 것은 금물이다. 성실한 태도를 보이도록 노력해라."
+      "luckyItem": "양상추",
+      "description": "부주의한 모습을 들킬 것 같아. 긴장감을 갖는 것이 중요해. 외모 관리에도 신경 써야 해."
     }
   ]
 }
