@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "rankings": [
     {
-      "sign": "전갈자리",
+      "sign": "물고기자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "하야시라이스",
-      "description": "연애 운이 상승해 최상의 컨디션♥ 좋은 인연을 만날 수도 있어요. 활동 범위를 넓혀보는 건 어떨까요?"
+      "luckyItem": "카메라",
+      "description": "모두에게 칭찬받아서 행복해♪ 그동안의 노력이 결실을 맺을 거야. 네 평가도 올라갈지도 몰라"
     },
     {
-      "sign": "게자리",
+      "sign": "전갈자리",
       "rank": 2,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "티슈 케이스",
-      "description": "예상치 못한 수입이 생겨 기분이 들뜬다! 예전부터 갖고 싶었던 물건을 사자"
+      "luckyItem": "덴푸라 우동",
+      "description": "소통 능력이 향상됩니다! 주변 사람들과 적극적으로 교류하세요"
     },
     {
-      "sign": "처녀자리",
+      "sign": "게자리",
       "rank": 3,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "허브",
-      "description": "유용한 정보를 얻어보세요♪ 주변 사람들의 이야기에 귀를 기울여 보세요"
-    },
-    {
-      "sign": "염소자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "초록색",
-      "description": "즐거운 시간을 보낼 수 있을 거야. 긍정적인 사고방식이 행운의 열쇠다."
-    },
-    {
-      "sign": "물고기자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "그라탕",
-      "description": "동료들의 신뢰도 상승, 배려심을 소중히 여기기"
+      "luckyItem": "잡지",
+      "description": "꿈을 실현하는 데 한 걸음 더 다가가는 날, 포기하지 않는 자세가 중요하다"
     },
     {
       "sign": "황소자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "펜네",
+      "description": "사랑의 기회가 찾아올지도 몰라요♥ 긍정적인 사고방식을 소중히 여기세요"
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "보라색",
+      "description": "사교 활동이 활발해질 때, 상냥한 말투가 좋은 인상을 준다"
+    },
+    {
+      "sign": "염소자리",
       "rank": 6,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "몬자야키",
-      "description": "보물 같은 물건을 발견할 것 같은 예감, 온라인 쇼핑에 행운이 따를 것 같다"
-    },
-    {
-      "sign": "물병자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "스마트폰",
-      "description": "멈춰 있던 사랑이 다시 시작될지도 몰라요. 적극적인 태도가 GOOD"
+      "luckyItem": "약통",
+      "description": "목표를 향해 한 걸음 나아가자. 하고 싶은 일을 어필해 보자."
     },
     {
       "sign": "천칭자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "게",
+      "description": "주변에서 긍정적인 자극을 얻어보세요. 평소와는 다른 유형의 사람과 대화하면 좋습니다."
+    },
+    {
+      "sign": "물병자리",
       "rank": 8,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "일본 전통 과자",
-      "description": "문제를 잘 해결할 수 있는 날, 친구에게 조언을 구해 보자"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "노란색",
-      "description": "생각이 정리되지 않아 답답하다면, 기분 전환할 시간을 좀 가져보세요."
+      "luckyItem": "콘소메 수프",
+      "description": "다른 사람들과 의견이 맞지 않아 속이 답답하다. 객관적인 관점에서 다시 생각해 보자."
     },
     {
       "sign": "사수자리",
-      "rank": 10,
+      "rank": 9,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "수건",
-      "description": "이기적인 태도에 주의하고, 상대방을 배려하는 마음을 잊지 말자"
-    },
-    {
-      "sign": "사자자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "미트로프",
-      "description": "안 좋은 소문이 돌 것 같다. 평소 말과 행동을 되돌아보자."
+      "luckyItem": "우표",
+      "description": "집중력이 이어지지 않아 실수를 연발했다. 당황하지 말고 신중하게 임해야 한다."
     },
     {
       "sign": "양자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "오이",
+      "description": "다른 사람과 자신을 비교하다 실망했다면… 친구에게 조언을 구해 보자"
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "초록색",
+      "description": "일이 생각대로 풀리지 않을 수도 있으니, 동료들의 도움을 받아보는 건 어떨까요?"
+    },
+    {
+      "sign": "사자자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "회색",
-      "description": "부정적인 생각이 들어 운이 떨어지는 것 같아. 피로가 쌓인 것 같으니 오늘은 무리하지 말고 푹 쉬어."
+      "luckyItem": "일식",
+      "description": "스트레스가 쌓여 짜증이 나더라도, 자기중심적인 태도는 금물이에요. 침착한 언행을 유지하도록 노력해 주세요."
     }
   ]
 }
