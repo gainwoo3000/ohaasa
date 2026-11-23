@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "rankings": [
     {
-      "sign": "사자자리",
+      "sign": "전갈자리",
       "rank": 1,
-      "period": "(7/23〜8/22)",
-      "luckyColor": "보라색",
-      "luckyItem": "원예",
-      "description": "부업이 인기를 끌며 새로운 수입원이 될 가능성이 큽니다. 자신의 강점을 살리는 데 집중하세요. 협업 기획도 성공할 것 같습니다."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "필통",
+      "description": "실력을 발휘해 대활약! 모두의 평가도 높아질 거야. 적극적으로 어필해 보자."
     },
     {
-      "sign": "사수자리",
+      "sign": "게자리",
       "rank": 2,
-      "period": "(11/23〜12/21)",
-      "luckyColor": "회색",
-      "luckyItem": "수제",
-      "description": "연애 운이 아주 좋습니다. 마음에 드는 사람에게서 구애를 받아 가슴이 두근거리는 순간도 있을 것입니다. 소중한 사람과는 당일치기 여행을 통해 유대감이 깊어질 것입니다."
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 3,
-      "period": "(5/21〜6/21)",
-      "luckyColor": "베이지",
-      "luckyItem": "체험 세트",
-      "description": "강력한 행동력을 발휘합니다. 타고난 기동력을 바탕으로 알찬 시간을 보낼 수 있을 것 같습니다. 이른 아침 산책도 추천합니다."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "리조또",
+      "description": "새로운 인맥이 넓어질 때, 초대받으면 수락하자"
     },
     {
       "sign": "물고기자리",
-      "rank": 4,
-      "period": "(2/19〜3/20)",
-      "luckyColor": "빨강",
-      "luckyItem": "벼룩시장",
-      "description": "업무와 집안일 속도가 빨라집니다. 적극적으로 움직일수록 성과를 실감하게 됩니다. 현관이나 주방·욕실 등을 중심으로 청소하는 것이 좋을 것 같습니다."
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "리토그래프",
+      "description": "도전 정신이 솟아오를 것 같은 예감, 과감한 행동에 행운이 따를 것"
     },
     {
-      "sign": "황소자리",
+      "sign": "염소자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "바인더",
+      "description": "연애 운이 좋아져서 행복해♥ 상대방과 대화를 즐겨보세요"
+    },
+    {
+      "sign": "처녀자리",
       "rank": 5,
-      "period": "(4/20〜5/20)",
-      "luckyColor": "노란색",
-      "luckyItem": "넥타이",
-      "description": "마음이 통하는 사람을 만날 수 있다는 징조. 공통된 취미를 발견하는 등 마음이 통하는 시기. 크리스마스 행사 준비에 행운이 따를 것입니다."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "죽",
+      "description": "좋은 자극을 얻을 수도 있겠네요. 처음 만난 사람과 교류하면 GOOD"
     },
     {
       "sign": "양자리",
       "rank": 6,
-      "period": "(3/21〜4/19)",
-      "luckyColor": "갈색",
-      "luckyItem": "오디오 세트",
-      "description": "단풍 구경하기에 안성맞춤. 야외 레저나 드라이브 데이트도 즐길 수 있을 것 같다. 대화에 유머를 더하면 웃음소리가 끊이지 않는 날."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "분홍색",
+      "description": "큰 기회가 찾아올 거예요. 목표 의식을 가지고 임하면 ◎"
     },
     {
-      "sign": "전갈자리",
+      "sign": "황소자리",
       "rank": 7,
-      "period": "(10/24〜11/22)",
-      "luckyColor": "초록",
-      "luckyItem": "여행 안내",
-      "description": "외출 중에 뜻밖의 일이 발생했습니다. 예절과 규칙을 중요하게 생각하세요. 충동적인 행동은 금물입니다. 주변과의 조화를 소중히 여기세요."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "연어 알",
+      "description": "행복을 찾는 팁을 얻어보세요♪ 동료들의 대화에 주목해 봅시다"
     },
     {
-      "sign": "물병자리",
+      "sign": "사자자리",
       "rank": 8,
-      "period": "(1/20〜2/18)",
-      "luckyColor": "검정",
-      "luckyItem": "드라이브스루",
-      "description": "필요한 물건을 장만하기에 가장 좋은 날. 실용적인 겉옷이나 난방 기구를 찾을 수 있을 것 같다. 우선 예산을 정해두자."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "노란빛이 도는 초록색",
+      "description": "쇼핑을 즐기기에 딱 좋을 것 같네요. 취향이 비슷한 친구와 함께 나가보는 건 어떨까요?"
     },
     {
       "sign": "천칭자리",
       "rank": 9,
-      "period": "(9/23〜10/23)",
-      "luckyColor": "하늘색",
-      "luckyItem": "코미디 책",
-      "description": "서로 잘 아는 사이더라도 예의를 지켜야 합니다. 느슨한 인상을 주어서는 안 됩니다. 복장은 TPO에 맞는 차림을 하세요."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "샤브샤브",
+      "description": "부주의한 실수가 늘어나는 날, 일정을 꼼꼼히 확인하세요"
     },
     {
-      "sign": "염소자리",
+      "sign": "쌍둥이자리",
       "rank": 10,
-      "period": "(12/22〜1/19)",
-      "luckyColor": "네이비",
-      "luckyItem": "홈센터",
-      "description": "파트너에게 지나치게 기대를 걸었다가 실망하는 일이 생길 수 있습니다. 서로의 생각과 능력을 존중하도록 하세요. 함께 외식을 즐기면 상황이 좋아질 것입니다."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "튀김",
+      "description": "게으름을 피우다 보니 운이 떨어진다… 일을 미루는 것은 금물"
     },
     {
-      "sign": "처녀자리",
+      "sign": "물병자리",
       "rank": 11,
-      "period": "(8/23〜9/22)",
-      "luckyColor": "골드",
-      "luckyItem": "교통용 IC 카드",
-      "description": "가족에게 화풀이를 하기 쉽습니다. 감정의 기복이 심하므로, 우선 심호흡을 해보세요. 동물이나 식물과 교감하면 마음이 치유됩니다."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "일정 수첩",
+      "description": "좋은 의도였으나 역효과를 낳았다. 주변 사람들과 속도를 맞춰 보자."
     },
     {
-      "sign": "게자리",
+      "sign": "사수자리",
       "rank": 12,
-      "period": "(6/22〜7/22)",
-      "luckyColor": "분홍색",
-      "luckyItem": "히트곡",
-      "description": "수상한 전화나 이메일에는 주의하십시오. 무심코 사기에 걸릴 우려가 있습니다. 혼자서 판단하여 대응하지 말고 지인에게 상담하십시오."
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "오뎅",
+      "description": "돈을 너무 많이 써버릴지도 몰라요. 충동구매에는 주의가 필요해요. 지갑 끈을 다시 꽉 조여야 해요."
     }
   ]
 }
