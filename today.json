@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "rankings": [
     {
-      "sign": "양자리",
+      "sign": "염소자리",
       "rank": 1,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "배추",
-      "description": "믿음직한 아군이 나타날 것 같은 예감♪ 속마음을 털어놓으면 GOOD, 좋은 방향으로 이끌어 줄 거야"
-    },
-    {
-      "sign": "쌍둥이자리",
-      "rank": 2,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "갈색",
-      "description": "즐거운 시간을 보낼 수 있을 것 같다. 화려한 곳에 행운이 따른다."
-    },
-    {
-      "sign": "염소자리",
-      "rank": 3,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "만년필",
-      "description": "재물운이 좋아서 행복해요! 패션 관련 쇼핑이 딱이에요!"
-    },
-    {
-      "sign": "전갈자리",
-      "rank": 4,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "채소 주스",
-      "description": "소원이 이루어질지도 몰라요. 가까운 사람과 함께 시간을 보내세요."
-    },
-    {
-      "sign": "게자리",
-      "rank": 5,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "신간 도서",
-      "description": "주변으로부터 호평을 받다. 독창성을 소중히 여긴다."
+      "luckyItem": "오르골",
+      "description": "당신의 노력이 인정받을 거예요. 주변의 평가도 올라갈지도 몰라요. 무엇이든 열심히 임하세요."
     },
     {
       "sign": "물고기자리",
+      "rank": 2,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "노란색",
+      "description": "일이 좋은 방향으로 흘러갈 것 같다. 적극적인 자세가 행운의 열쇠다."
+    },
+    {
+      "sign": "양자리",
+      "rank": 3,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "엽서",
+      "description": "좋아하는 사람과 급속도로 가까워질 기회♥ 대담한 어필이 GOOD"
+    },
+    {
+      "sign": "쌍둥이자리",
+      "rank": 4,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "수건",
+      "description": "모두에게 칭찬받아서 행복해! 긍정적인 생각에는 행운이 따른다"
+    },
+    {
+      "sign": "전갈자리",
+      "rank": 5,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "주황색",
+      "description": "재능을 발휘할 수 있을 것 같은 예감, 자신감을 가지고 전진할 뿐입니다"
+    },
+    {
+      "sign": "게자리",
       "rank": 6,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "크림색",
-      "description": "예기치 못한 재회가 있을지도 모르는 날, 별다른 계획이 없더라도 외출해 보세요"
-    },
-    {
-      "sign": "처녀자리",
-      "rank": 7,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "고기만두",
-      "description": "동료들의 지원에 큰 기대를 걸고 있다. 성실한 태도가 행운의 열쇠다."
-    },
-    {
-      "sign": "물병자리",
-      "rank": 8,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "커피잔",
-      "description": "집중력이 떨어지면서 실수가 잇따르니, 기분 전환할 시간을 마련하세요."
-    },
-    {
-      "sign": "천칭자리",
-      "rank": 9,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "셔벗",
-      "description": "네 마음이 전해질 것 같아. 솔직한 마음을 말로 표현해 봐."
-    },
-    {
-      "sign": "사자자리",
-      "rank": 10,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "주먹밥",
-      "description": "시시한 고집을 부릴지도 모르니, 겸손한 자세를 잊지 말자"
-    },
-    {
-      "sign": "사수자리",
-      "rank": 11,
-      "period": "",
-      "luckyColor": "-",
-      "luckyItem": "달력",
-      "description": "제멋대로인 행동에 주의하세요. 신중하게 생각한 뒤 행동하세요."
+      "luckyItem": "하라미",
+      "description": "꿈을 실현하는 데 한 걸음 더 다가갈 수 있는 날, 하고 싶은 일을 주변 사람들에게 이야기해 보세요"
     },
     {
       "sign": "황소자리",
+      "rank": 7,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "브로치",
+      "description": "유익한 정보를 얻었어요♪ 친구들과 수다를 떨 때 참고할 만한 팁이"
+    },
+    {
+      "sign": "천칭자리",
+      "rank": 8,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "해조류",
+      "description": "기쁜 만남이 있을 때는 발걸음을 가볍게 하는 것이 좋습니다◎"
+    },
+    {
+      "sign": "물병자리",
+      "rank": 9,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "흰색",
+      "description": "어색했던 사람과 화해할 수 있을지도 몰라. 먼저 연락해 봐."
+    },
+    {
+      "sign": "사수자리",
+      "rank": 10,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "배낭",
+      "description": "감정에 휩쓸려 짜증이 나더라도 침착하게 대처하도록 노력합시다."
+    },
+    {
+      "sign": "처녀자리",
+      "rank": 11,
+      "period": "",
+      "luckyColor": "-",
+      "luckyItem": "짬뽕",
+      "description": "집중력이 떨어질 것 같다. 과제를 미루는 것은 금물이다."
+    },
+    {
+      "sign": "사자자리",
       "rank": 12,
       "period": "",
       "luckyColor": "-",
-      "luckyItem": "당면",
-      "description": "기회를 놓치고 후회하지 않도록, 눈앞의 일에 성실하게 임하고 끝까지 긴장을 늦추지 않도록"
+      "luckyItem": "크림색",
+      "description": "너무 무리해서 몸이 한계에 다다랐어. 피로가 쌓인 것 같아. 오늘은 내 페이스대로 지내야겠다."
     }
   ]
 }
